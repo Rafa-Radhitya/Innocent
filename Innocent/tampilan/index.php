@@ -55,7 +55,7 @@
 
             <div class="s-hero__slide">
 
-                <div class="s-hero__slide-bg" style="background-image: url('images/slide1-bg-3000.jpg');"></div>
+                <div class="s-hero__slide-bg" style="background-image: url('images/background_img.jpeg');"></div>
 
                 <div class="row s-hero__slide-content animate-this">
                     <div class="column">
