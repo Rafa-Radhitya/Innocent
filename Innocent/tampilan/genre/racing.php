@@ -44,7 +44,7 @@
 
     <!-- header
     ================================================== -->
-    <header class="s-header s-header--opaque">
+    <?php include 'header.php'; ?>
 
         <div class="s-header__logo">
             <a class="logo" href="index.html">
