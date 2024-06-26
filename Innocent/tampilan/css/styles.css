@@ -3119,7 +3119,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     --brick-padding: 4rem;
     padding-top: var(--vspace-4);
     padding-bottom: var(--vspace-2_25);
-    background-color: rgb(48, 48, 48);
+    background-color: var(--color-gray-15);
 }
 
 .s-bricks--half-top-padding {
@@ -4442,7 +4442,7 @@ body.search-is-visible {
  * ------------------------------------------------------------------- */
 .s-content {
     --row-max-width: 1400px;
-    background-color: white;
+    background-color: var(--color-gray-15);
     padding-top: calc(5.5 * var(--space));
 }
 
@@ -4580,7 +4580,7 @@ body.search-is-visible {
 }
 
 .s-content__entry-meta a {
-    color: var(--color-text);
+    color: var(--color-text-light);
 }
 
 .s-content__entry-meta a:focus, 
@@ -4595,7 +4595,7 @@ body.search-is-visible {
     line-height: calc(0.375 * var(--space));
     text-transform: uppercase;
     letter-spacing: .05em;
-    color: black;
+    color: var(--color-gray-3);
 }
 
 .s-content__entry-meta .bytext, 
@@ -5048,7 +5048,7 @@ body.search-is-visible {
  * ------------------------------------------------------------------- */
 .comments-wrap {
     padding-bottom: var(--vspace-4);
-    background-color: white;
+    background-color:var(--color-gray-15);
 }
 
 .comments-wrap h3 {
@@ -5142,7 +5142,7 @@ body.search-is-visible {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: .2rem;
-    color: black;
+    color: rgb(255, 249, 249);
 }
 
 .comment__text {

@@ -1,8 +1,8 @@
 <header class="s-header">
 
 <div class="s-header__logo">
-    <a class="logo" href="index.html">
-        <img src="images/logo.svg" alt="Homepage">
+    <a class="logo" href="/Innocent/Innocent/tampilan/index.php">
+        <img src="/Innocent/Innocent/tampilan/images/logo.svg" alt="Homepage">
         
     </a>
 </div>
@@ -14,35 +14,35 @@
         <h3 class="s-header__nav-heading h6">Navigate to</h3>
 
         <ul class="s-header__nav">
-            <li class="current"><a href="index.html" title="">Home</a></li>
+            <li class="current"><a href="/Innocent/Innocent/tampilan/index.php" title="">Home</a></li>
             <li class="has-children">
                 <a href="#0" title="">Toko</a>
                 <ul class="sub-menu">
-                    <li><a href="category.html">Design</a></li>
-                    <li><a href="category.html">Lifestyle</a></li>
-                    <li><a href="category.html">Photography</a></li>
-                    <li><a href="category.html">Vacation</a></li>
-                    <li><a href="category.html">Work</a></li>
-                    <li><a href="category.html">Health</a></li>
-                    <li><a href="category.html">Family</a></li>
-                    <li><a href="category.html">Relationship</a></li>
+                    <li><a href="category.php">Design</a></li>
+                    <li><a href="category.php">Lifestyle</a></li>
+                    <li><a href="category.php">Photography</a></li>
+                    <li><a href="category.php">Vacation</a></li>
+                    <li><a href="category.php">Work</a></li>
+                    <li><a href="category.php">Health</a></li>
+                    <li><a href="category.php">Family</a></li>
+                    <li><a href="category.php">Relationship</a></li>
                 </ul>
             </li>
             <li class="has-children">
                 <a href="#0" title="">Genre</a>
                 <ul class="sub-menu">
-                    <li><a href="shooter.php">Shooter</a></li>
-                    <li><a href="fighting.php">Fighting</a></li>
-                    <li><a href="racing.php">Racing</a></li>
-                    <li><a href="sport.php">Sport</a></li>
-                    <li><a href="rpg.php">RPG</a></li>
-                    <li><a href="strategy.php">Startegy</a></li>
-                    <li><a href="adventure.php">Adventure</a></li>
-                    <li><a href="batleroyale.php">Battle royal</a></li>
-                    <li><a href="casual.php">Casual</a></li>
+                    <li><a href="/Innocent/Innocent/tampilan/genre/shooter.php">Shooter</a></li>
+                    <li><a href="/Innocent/Innocent/tampilan/genre/fighting.php">Fighting</a></li>
+                    <li><a href="/Innocent/Innocent/tampilan/genre/racing.php">Racing</a></li>
+                    <li><a href="/Innocent/Innocent/tampilan/genre/sport.php">Sport</a></li>
+                    <li><a href="/Innocent/Innocent/tampilan/genre/rpg.php">RPG</a></li>
+                    <li><a href="/Innocent/Innocent/tampilan/genre/strategy.php">Startegy</a></li>
+                    <li><a href="/Innocent/Innocent/tampilan/genre/adventure.php">Adventure</a></li>
+                    <li><a href="/Innocent/Innocent/tampilan/genre/battleroyal.php">Battle royal</a></li>
+                    <li><a href="/Innocent/Innocent/tampilan/genre/casual.php">Casual</a></li>
                 </ul>
             </li>
-            <li><a href="styles.html" title="">Data</a></li>
+            <li><a href="/Innocent/Innocent/tampilan/Statistik/Statistik.php" title="">Data</a></li>
             <li><a href="about.html" title="">Akun</a></li>
 
         </ul> <!-- end s-header__nav -->
