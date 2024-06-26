@@ -76,15 +76,15 @@
                     <li class="has-children current">
                         <a href="#0" title="">Genre</a>
                         <ul class="sub-menu">
-                            <li><a href="shooter.html">Shooter</a></li>
-                            <li><a href="fighting.html">Fighting</a></li>
-                            <li><a href="racing.html">Racing</a></li>
-                            <li><a href="sport.html">Sport</a></li>
-                            <li><a href="rpg.html">RPG</a></li>
-                            <li><a href="strategy.html">Strategy</a></li>
-                            <li><a href="adventure.html">Adventure</a></li>
-                            <li><a href="battleroyal.html">Battle royal</a></li>
-                            <li><a href="casual.html">Casual</a></li>
+                        <li><a href="shooter.php">Shooter</a></li>
+                        <li><a href="fighting.php">Fighting</a></li>
+                        <li><a href="racing.php">Racing</a></li>
+                        <li><a href="sport.php">Sport</a></li>
+                        <li><a href="rpg.php">RPG</a></li>
+                        <li><a href="strategy.php">Startegy</a></li>
+                        <li><a href="adventure.php">Adventure</a></li>
+                        <li><a href="batleroyale.php">Battle royal</a></li>
+                        <li><a href="casual.php">Casual</a></li>
                         </ul>
                     </li>
                     <li><a href="styles.html" title="">Data</a></li>
