@@ -161,10 +161,10 @@
 
     /* text
      */
-    --color-text: var(--color-gray-16);
-    --color-text-dark: var(--color-black);
-    --color-text-light: var(--color-gray-7);
-    --color-placeholder: var(--color-gray-7);
+    --color-text: var(--color-gray-2);
+    --color-text-dark: var(--color-gray-2);
+    --color-text-light: var(--color-gray-2);
+    --color-placeholder: var(--color-gray-2);
 
     /* buttons
      */
@@ -1636,10 +1636,10 @@ a:hover, a:active {
  * --text-xs        = (12.50px)
  * -------------------------------------------------------------------- */
 
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: 400;
     font-style: normal;
-    color: var(--color-text-dark);
+    color: var(--color-white);
     -webkit-font-variant-ligatures: common-ligatures;
     font-variant-ligatures: common-ligatures;
     text-rendering: optimizeLegibility;
@@ -1712,7 +1712,7 @@ h6, .h6 {
     font-weight: 300;
     font-size: var(--text-md);
     line-height: calc(1.125 * var(--space));
-    color: var(--color-text-dark);
+    color: var(--color-text);
 }
 
 @media screen and (max-width: 400px) {
@@ -3272,7 +3272,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .bricks-wrapper .entry__title a, 
 .bricks-wrapper .entry__title a:visited {
-    color: black;
+    color: var(--color-gray-1);
 }
 
 .bricks-wrapper .entry__title a:hover, 
