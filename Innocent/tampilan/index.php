@@ -33,7 +33,7 @@
 
     </head>
 
-    <body id="top">
+    <body id="top" class="">
 
 
         <!-- preloader
@@ -165,89 +165,102 @@
 
         </section> <!-- end s-hero -->
 
-        <!-- coba section baru -->
-        <section class="s-content">
-            <div class="s-bricks">
-                <div class="s-content__entry-header">
-                    <h1 class="s-content__title s-content__title--post">Genre</h1>
-                </div> <!-- end s-content__entry-header -->
-                <div class="masonry">
-                    <div class="bricks-wrapper h-group">
-                        <div class="grid-sizer"></div>
+        <!-- slider genre
+        ================================================== -->
+        <section class="s-content s-content--no-top-padding s-genre">
+            <div class="s-genre-wrapper">
+                <!-- slider genre -->
+                <div class="s-bricks s-content--no-top-padding">
+                    <div class="s-content__entry-header">
+                        <h1 class="s-content__title s-content__title--post">Genre</h1>
+                    </div> <!-- end s-content__entry-header -->
+                    <div class="masonry">
+                        <div class="bricks-wrapper h-group">
+                            <div class="grid-sizer"></div>
 
-                        <div class="lines">
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                            <span></span>
+                            <div class="lines">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+
+                            <article class="brick entry" data-aos="fade-up"> <!-- artikel satu -->
+                                <div class="entry__thumb">
+                                    <a href="single-standard.html" class="thumb-link">
+                                        <img src="images/image 47.png" alt="">
+                                    </a>
+                                </div>
+
+                                <div class="entry__text">
+                                    <div class="entry__header">
+                                        <h1 class="entry__title"><a href="">Shooter</a></h1>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="brick entry" data-aos="fade-up"> <!-- artikel dua -->
+                                <div class="entry__thumb">
+                                    <a href="single-standard.html" class="thumb-link">
+                                        <img src="images/Harbor Wallpaper 1 1.png" alt="">
+                                    </a>
+                                </div>
+
+                                <div class="entry__text">
+                                    <div class="entry__header">
+                                        <h1 class="entry__title"><a href="">Fighting</a></h1>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="brick entry" data-aos="fade-up"> <!-- artikel tiga -->
+                                <div class="entry__thumb">
+                                    <a href="single-standard.html" class="thumb-link">
+                                        <img src="images/image 48.png" alt="">
+                                    </a>
+                                </div>
+
+                                <div class="entry__text">
+                                    <div class="entry__header">
+                                        <h1 class="entry__title"><a href="">Adventure</a></h1>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="brick entry" data-aos="fade-up"> <!-- artikel empat -->
+                                <div class="entry__thumb">
+                                    <a href="single-standard.html" class="thumb-link">
+                                        <img src="images/Mbappe.png" alt="">
+                                    </a>
+                                </div>
+
+                                <div class="entry__text">
+                                    <div class="entry__header">
+                                        <h1 class="entry__title"><a href="">Sport</a></h1>
+                                    </div>
+                                </div>
+                            </article>
+
                         </div>
-
-                        <article class="brick entry" data-aos="fade-up"> <!-- artikel satu -->
-                            <div class="entry__thumb">
-                                <a href="single-standard.html" class="thumb-link">
-                                    <img src="images/image 47.png" alt="">
-                                </a>
-                            </div>
-
-                            <div class="entry__text">
-                                <div class="entry__header">
-                                    <h1 class="entry__title"><a href="">Shooter</a></h1>
-                                </div>
-                            </div>
-                        </article>
-
-                        <article class="brick entry" data-aos="fade-up"> <!-- artikel dua -->
-                            <div class="entry__thumb">
-                                <a href="single-standard.html" class="thumb-link">
-                                    <img src="images/Harbor Wallpaper 1 1.png" alt="">
-                                </a>
-                            </div>
-
-                            <div class="entry__text">
-                                <div class="entry__header">
-                                    <h1 class="entry__title"><a href="">Fighting</a></h1>
-                                </div>
-                            </div>
-                        </article>
-
-                        <article class="brick entry" data-aos="fade-up"> <!-- artikel tiga -->
-                            <div class="entry__thumb">
-                                <a href="single-standard.html" class="thumb-link">
-                                    <img src="images/image 48.png" alt="">
-                                </a>
-                            </div>
-
-                            <div class="entry__text">
-                                <div class="entry__header">
-                                    <h1 class="entry__title"><a href="">Adventure</a></h1>
-                                </div>
-                            </div>
-                        </article>
-
-                        <article class="brick entry" data-aos="fade-up"> <!-- artikel empat -->
-                            <div class="entry__thumb">
-                                <a href="single-standard.html" class="thumb-link">
-                                    <img src="images/Mbappe.png" alt="">
-                                </a>
-                            </div>
-
-                            <div class="entry__text">
-                                <div class="entry__header">
-                                    <h1 class="entry__title"><a href="">Sport</a></h1>
-                                </div>
-                            </div>
-                        </article>
-
                     </div>
-                </div>
-            </div>
-        </section>
+                </div><!-- akhir slider -->
+                <!-- tombol -->
+                <div class="nav-arrows s-genre__nav-arrows">
+                    <button class="s-genre__arrow">
+                        <svg viewBox="0 0 15 15"  xmlns="http://www.w3.org/2000/svg" width="15" height="15">
+                            <path d="M1.5 7.5l4-4m-4 4l4 4m-4-4" stroke="currentColor"></path>
+                        </svg>
+                    </button>
+                    <button class="s-genre__arrow">
+                    <svg viewBox="0 0 15 15"  xmlns="http://www.w3.org/2000/svg" width="15" height="15">
+                            <path d="M13.5 7.5l-4-4m4 4l-4 4m4-4" stroke="currentColor"></path>
+                        </svg>
+                    </button>
+                </div> <!-- end s-hero__arrows -->
 
-        <!-- content 
-    ================================================== -->
-        <section class="s-content s-content--no-top-padding">
-            <!-- masonry bawah
-            ================================================== -->
+            </div>
+
+            <!-- konten game -->
             <div class="s-bricks">
 
                 <div class="masonry">
@@ -275,8 +288,8 @@
 
                                     <div class="entry__meta">
                                         <span class="byline"">By:
-                                        <span class='author'>
-                                            <a href=" https://www.dreamhost.com/r.cgi?287326">StyleShout</a>
+                        <span class='author'>
+                            <a href=" https://www.dreamhost.com/r.cgi?287326">StyleShout</a>
                                         </span>
                                         </span>
                                         <span class="cat-links">
@@ -309,8 +322,8 @@
 
                                     <div class="entry__meta">
                                         <span class="byline"">By:
-                                        <span class='author'>
-                                            <a href=" #0">Naruto Uzumaki</a>
+                        <span class='author'>
+                            <a href=" #0">Naruto Uzumaki</a>
                                         </span>
                                         </span>
                                         <span class="cat-links">
@@ -343,8 +356,8 @@
 
                                     <div class="entry__meta">
                                         <span class="byline"">By:
-                                        <span class='author'>
-                                            <a href=" #0">Shikamaru Nara</a>
+                        <span class='author'>
+                            <a href=" #0">Shikamaru Nara</a>
                                         </span>
                                         </span>
                                         <span class="cat-links">
@@ -376,8 +389,8 @@
 
                                     <div class="entry__meta">
                                         <span class="byline"">By:
-                                        <span class='author'>
-                                            <a href=" #0">Susuke Uchiha</a>
+                        <span class='author'>
+                            <a href=" #0">Susuke Uchiha</a>
                                         </span>
                                         </span>
                                         <span class="cat-links">
@@ -409,8 +422,8 @@
 
                                     <div class="entry__meta">
                                         <span class="byline"">By:
-                                        <span class='author'>
-                                            <a href=" #0">Naruto Uzumaki</a>
+                        <span class='author'>
+                            <a href=" #0">Naruto Uzumaki</a>
                                         </span>
                                         </span>
                                         <span class="cat-links">
@@ -444,8 +457,8 @@
 
                                     <div class="entry__meta">
                                         <span class="byline"">By:
-                                        <span class='author'>
-                                            <a href=" #0">Naruto Uzumaki</a>
+                        <span class='author'>
+                            <a href=" #0">Naruto Uzumaki</a>
                                         </span>
                                         </span>
                                         <span class="cat-links">
@@ -478,8 +491,8 @@
 
                                     <div class="entry__meta">
                                         <span class="byline"">By:
-                                        <span class='author'>
-                                            <a href=" #0">Naruto Uzumaki</a>
+                        <span class='author'>
+                            <a href=" #0">Naruto Uzumaki</a>
                                         </span>
                                         </span>
                                         <span class="cat-links">
@@ -512,8 +525,8 @@
 
                                     <div class="entry__meta">
                                         <span class="byline"">By:
-                                        <span class='author'>
-                                            <a href=" #0">Kakakshi Hatake</a>
+                        <span class='author'>
+                            <a href=" #0">Kakakshi Hatake</a>
                                         </span>
                                         </span>
                                         <span class="cat-links">
@@ -546,8 +559,8 @@
 
                                     <div class="entry__meta">
                                         <span class="byline"">By:
-                                        <span class='author'>
-                                            <a href=" #0">John Doe</a>
+                        <span class='author'>
+                            <a href=" #0">John Doe</a>
                                         </span>
                                         </span>
                                         <span class="cat-links">
@@ -580,8 +593,8 @@
 
                                     <div class="entry__meta">
                                         <span class="byline"">By:
-                                        <span class='author'>
-                                            <a href=" #0">Sakura Haruno</a>
+                        <span class='author'>
+                            <a href=" #0">Sakura Haruno</a>
                                         </span>
                                         </span>
                                         <span class="cat-links">
@@ -613,8 +626,8 @@
 
                                     <div class="entry__meta">
                                         <span class="byline"">By:
-                                        <span class='author'>
-                                            <a href=" #0">Sakura Haruno</a>
+                        <span class='author'>
+                            <a href=" #0">Sakura Haruno</a>
                                         </span>
                                         </span>
                                         <span class="cat-links">
@@ -646,8 +659,8 @@
 
                                     <div class="entry__meta">
                                         <span class="byline"">By:
-                                        <span class='author'>
-                                            <a href=" #0">Naruto Uzumaki</a>
+                        <span class='author'>
+                            <a href=" #0">Naruto Uzumaki</a>
                                         </span>
                                         </span>
                                         <span class="cat-links">
@@ -696,7 +709,16 @@
                     </div> <!-- end column -->
                 </div> <!-- end row -->
 
-            </div> <!-- end s-bricks -->
+            </div> <!-- akhir game -->
+        </section><!-- akhir slider genre 
+        ================================================== -->
+
+        <!-- content
+          ================================================== -->
+        <section class="s-content s-content--no-top-padding">
+            <!-- masonry bawah
+            ================================================== -->
+
 
         </section> <!-- end s-content -->
 

@@ -183,7 +183,7 @@
 
     /* others
      */
-    --color-bg: var(--color-gray-1);
+    --color-bg: var(--color-gray-15);
     --color-border: #eeeeee;
 }
 
@@ -4313,6 +4313,54 @@ body.search-is-visible {
 .s-hero__nav-arrows button:focus svg path {
     fill: white;
 }
+/* ------------------------------------------------------------------- 
+ * ## genre slider nav arrows
+ * ------------------------------------------------------------------- */
+.s-genre-wrapper {
+    position: relative;
+   
+}
+.s-genre__nav-arrows {
+    z-index: 2;
+    display: flex;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    justify-content: space-between;
+    transform: translateY(-50%);
+}
+
+.s-genre__nav-arrows button {
+    height: var(--vspace-1_75);
+    width: var(--vspace-2);
+    background-color: transparent;
+    border-color: transparent;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.s-genre__nav-arrows button svg {
+    height: 3rem;
+    width: 3rem;
+}
+
+.s-genre__nav-arrows button svg path {
+    stroke: rgb(255, 255, 255);
+}
+
+.s-genre__nav-arrows button:hover, 
+.s-genre__nav-arrows button:focus {
+    background-color: white;
+    border-color: white;
+}
+
+.s-genre__nav-arrows button:hover svg path, 
+.s-genre__nav-arrows button:focus svg path {
+    stroke: black;
+}
 
 /* ------------------------------------------------------------------- 
  * responsive:
@@ -5186,7 +5234,8 @@ body.search-is-visible {
     padding-bottom: var(--vspace-2);
     font-size: var(--text-sm);
     line-height: calc(0.8125 * var(--space));
-    color: var(--color-gray-14);
+    color: var(--color-gray-17);
+    background-color: var(--color-gray-2);
 }
 
 .s-footer .row {
@@ -5207,6 +5256,7 @@ body.search-is-visible {
     margin-bottom: var(--vspace-0_75);
     margin-top: 0;
     border-bottom: 1px solid var(--color-gray-2);
+    color: var(--color-gray-17);    
 }
 
 .s-footer ul {
@@ -5222,6 +5272,7 @@ body.search-is-visible {
  * ------------------------------------------------------------------- */
 .s-footer__main {
     padding-bottom: var(--vspace-0_5);
+    
 }
 
 .s-footer__main ul li {
@@ -5253,16 +5304,22 @@ body.search-is-visible {
 
 .s-footer__subscribe .subscribe-form #mc-form {
     padding: 0;
+
+}
+.subscribe-form input::placeholder {
+    color: black;
 }
 
 .s-footer__subscribe .subscribe-form input[type="email"] {
     --input-height: vspace(1.75);
     background-color: transparent;
-    border: 1px solid var(--color-text);
+    border: 1px solid black;
     padding: .8rem 2rem;
     width: 100%;
     text-align: center;
     margin-bottom: var(--vspace-0_5);
+    
+    
 }
 
 .s-footer__subscribe .subscribe-form input[type="submit"] {
