@@ -3,12 +3,12 @@
 
     <head>
 
-    <!--- basic page needs
+        <!--- basic page needs
     ================================================== -->
-    <meta charset="utf-8">
-    <title>Calvin</title>
-    <meta name="description" content="">
-    <meta name="author" content="">
+        <meta charset="utf-8">
+        <title>Calvin</title>
+        <meta name="description" content="">
+        <meta name="author" content="">
 
         <!-- mobile specific metas
         ================================================== -->
@@ -58,60 +58,60 @@
 
                     <div class="s-hero__slide-bg" style="background-image: url('images/background_img.jpeg');"></div>
 
-                <div class="row s-hero__slide-content animate-this">
-                    <div class="column">
-                        <div class="s-hero__slide-meta">
-                            <span class="cat-links">
-                                <a href="#0">Lifestyle</a>
-                                <a href="#0">Design</a>
-                            </span>
-                            <span class="byline"> 
-                                Posted by 
-                                <span class="author">
-                                    <a href="#0">Jonathan Doe</a>
+                    <div class="row s-hero__slide-content animate-this">
+                        <div class="column">
+                            <div class="s-hero__slide-meta">
+                                <span class="cat-links">
+                                    <a href="#0">Lifestyle</a>
+                                    <a href="#0">Design</a>
                                 </span>
-                            </span>
+                                <span class="byline">
+                                    Posted by
+                                    <span class="author">
+                                        <a href="#0">Jonathan Doe</a>
+                                    </span>
+                                </span>
+                            </div>
+                            <h1 class="s-hero__slide-text">
+                                <a href="#0">
+                                    Tips and Ideas to Help You Start Freelancing.
+                                </a>
+                            </h1>
                         </div>
-                        <h1 class="s-hero__slide-text">
-                            <a href="#0">
-                                Tips and Ideas to Help You Start Freelancing.
-                            </a>
-                        </h1>
                     </div>
-                </div>
 
                 </div> <!-- end s-hero__slide -->
 
                 <div class="s-hero__slide">
 
-                <div class="s-hero__slide-bg" style="background-image: url('images/slide2-bg-3000.jpg');"></div>
+                    <div class="s-hero__slide-bg" style="background-image: url('images/slide2-bg-3000.jpg');"></div>
 
-                <div class="row s-hero__slide-content animate-this">
-                    <div class="column">
-                        <div class="s-hero__slide-meta">
-                            <span class="cat-links">
-                                <a href="#0">Work</a>
-                            </span>
-                            <span class="byline"> 
-                                Posted by 
-                                <span class="author">
-                                    <a href="#0">Juan Dela Cruz</a>
+                    <div class="row s-hero__slide-content animate-this">
+                        <div class="column">
+                            <div class="s-hero__slide-meta">
+                                <span class="cat-links">
+                                    <a href="#0">Work</a>
                                 </span>
-                            </span>
+                                <span class="byline">
+                                    Posted by
+                                    <span class="author">
+                                        <a href="#0">Juan Dela Cruz</a>
+                                    </span>
+                                </span>
+                            </div>
+                            <h1 class="s-hero__slide-text">
+                                <a href="#0">
+                                    Minimalism: The Art of Keeping It Simple.
+                                </a>
+                            </h1>
                         </div>
-                        <h1 class="s-hero__slide-text">
-                            <a href="#0">
-                                Minimalism: The Art of Keeping It Simple.
-                            </a>
-                        </h1>
                     </div>
-                </div>
 
                 </div> <!-- end s-hero__slide -->
 
                 <div class="s-hero__slide"">
 
-                <div class="s-hero__slide-bg" style="background-image: url('images/slide3-bg-3000.jpg');"></div>
+                <div class=" s-hero__slide-bg" style="background-image: url('images/slide3-bg-3000.jpg');"></div>
 
                 <div class="row s-hero__slide-content animate-this">
                     <div class="column">
@@ -120,8 +120,8 @@
                                 <a href="#0">Health</a>
                                 <a href="#0">Lifestyle</a>
                             </span>
-                            <span class="byline"> 
-                                Posted by 
+                            <span class="byline">
+                                Posted by
                                 <span class="author">
                                     <a href="#0">Jane Doe</a>
                                 </span>
@@ -168,6 +168,9 @@
         <!-- coba section baru -->
         <section class="s-content">
             <div class="s-bricks">
+                <div class="s-content__entry-header">
+                    <h1 class="s-content__title s-content__title--post">Genre</h1>
+                </div> <!-- end s-content__entry-header -->
                 <div class="masonry">
                     <div class="bricks-wrapper h-group">
                         <div class="grid-sizer"></div>
@@ -182,32 +185,56 @@
                         <article class="brick entry" data-aos="fade-up"> <!-- artikel satu -->
                             <div class="entry__thumb">
                                 <a href="single-standard.html" class="thumb-link">
-                                    <img src="images/bape.jpg" alt="">
+                                    <img src="images/image 47.png" alt="">
                                 </a>
+                            </div>
+
+                            <div class="entry__text">
+                                <div class="entry__header">
+                                    <h1 class="entry__title"><a href="">Shooter</a></h1>
+                                </div>
                             </div>
                         </article>
 
                         <article class="brick entry" data-aos="fade-up"> <!-- artikel dua -->
                             <div class="entry__thumb">
                                 <a href="single-standard.html" class="thumb-link">
-                                    <img src="images/bape.jpg" alt="">
+                                    <img src="images/Harbor Wallpaper 1 1.png" alt="">
                                 </a>
+                            </div>
+
+                            <div class="entry__text">
+                                <div class="entry__header">
+                                    <h1 class="entry__title"><a href="">Fighting</a></h1>
+                                </div>
                             </div>
                         </article>
 
                         <article class="brick entry" data-aos="fade-up"> <!-- artikel tiga -->
                             <div class="entry__thumb">
                                 <a href="single-standard.html" class="thumb-link">
-                                    <img src="images/bape.jpg" alt="">
+                                    <img src="images/image 48.png" alt="">
                                 </a>
+                            </div>
+
+                            <div class="entry__text">
+                                <div class="entry__header">
+                                    <h1 class="entry__title"><a href="">Adventure</a></h1>
+                                </div>
                             </div>
                         </article>
 
                         <article class="brick entry" data-aos="fade-up"> <!-- artikel empat -->
                             <div class="entry__thumb">
                                 <a href="single-standard.html" class="thumb-link">
-                                    <img src="images/bape.jpg" alt="">
+                                    <img src="images/Mbappe.png" alt="">
                                 </a>
+                            </div>
+
+                            <div class="entry__text">
+                                <div class="entry__header">
+                                    <h1 class="entry__title"><a href="">Sport</a></h1>
+                                </div>
                             </div>
                         </article>
 
@@ -220,7 +247,7 @@
     ================================================== -->
         <section class="s-content s-content--no-top-padding">
             <!-- masonry bawah
-            ================================================== -->>
+            ================================================== -->
             <div class="s-bricks">
 
                 <div class="masonry">

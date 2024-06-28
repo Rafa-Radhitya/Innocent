@@ -3352,16 +3352,19 @@ button::-moz-focus-inner, input::-moz-focus-inner {
         --brick-padding: 4rem;
     }
     .bricks-wrapper .lines span:nth-child(1) {
-        left: 33.3333%;
+        left: 25%;
     }
     .bricks-wrapper .lines span:nth-child(2) {
-        left: 66.6666%;
+        left: 50%;
     }
     .bricks-wrapper .lines span:nth-child(3) {
+        left: 75%;
+    }
+    .bricks-wrapper .lines span:nth-child(4) {
         display: none;
     }
     .bricks-wrapper .grid-sizer, .bricks-wrapper .brick {
-        width: 33.3333%;
+        width: 25%;
     }
 }
 
