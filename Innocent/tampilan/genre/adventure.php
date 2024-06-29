@@ -30,11 +30,6 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
 
-</head>
-
-<body id="top">
-
-
     <!-- preloader
     ================================================== -->
     <div id="preloader"> 
@@ -46,413 +41,493 @@
     ================================================== -->
     <?php include '../header_footer/header.php'; ?>
 
+    
+<body id="top">
+
+
+       
 
     <!-- content
     ================================================== -->
     <section class="s-content">
 
-        <div class="row">
-            <div class="column large-12">
 
-                <article class="s-content__entry format-standard">
-
-                    <div class="s-content__media">
-                        <div class="s-content__post-thumb">
-                            <div class="video-container">
-                                <iframe src="https://player.vimeo.com/video/117310401?color=339989&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-                            </div>
-                        </div>
-                    </div> <!-- end s-content__media -->
-
-                    <div class="s-content__entry-header">
-                        <h1 class="s-content__title s-content__title--post">Hey, This Is A Video Post.</h1>
-                    </div> <!-- end s-content__entry-header -->
-
-                    <div class="s-content__primary">
-
-                        <div class="s-content__entry-content">
-
-                            <p class="lead">
-                            Duis ex ad cupidatat tempor Excepteur cillum cupidatat fugiat nostrud cupidatat dolor 
-                            sunt sint sit nisi est eu exercitation incididunt adipisicing veniam velit id fugiat 
-                            enim mollit amet anim veniam dolor dolor irure velit commodo cillum sit nulla ullamco 
-                            magna amet magna cupidatat qui labore cillum sit in tempor veniam consequat non laborum 
-                            adipisicing aliqua ea nisi sint. Unde quod at minus quia velit ipsa ea qui. </p> 
-    
-                            <p>
-                            Duis ex ad cupidatat tempor Excepteur cillum cupidatat fugiat nostrud cupidatat dolor 
-                            sunt sint sit nisi est eu exercitation incididunt adipisicing veniam velit id fugiat 
-                            enim mollit amet anim veniam dolor dolor irure velit commodo cillum sit nulla ullamco 
-                            magna amet magna cupidatat qui labore cillum sit in tempor veniam consequat non laborum 
-                            adipisicing aliqua ea nisi sint ut quis proident ullamco ut dolore culpa occaecat ut 
-                            laboris in sit minim cupidatat ut dolor voluptate enim veniam consequat occaecat fugiat 
-                            in adipisicing in amet Ut nulla nisi non ut enim aliqua laborum mollit quis nostrud sed sed.
-                            </p>
-    
-                            <p>
-                                <img src="images/sample-1050.jpg" 
-                                        srcset="images/sample-2100.jpg 2100w, 
-                                                images/sample-1050.jpg 1050w, 
-                                                images/sample-525.jpg 525w" sizes="(max-width: 2100px) 100vw, 2100px" alt="">
-                            </p>
-    
-                            <p>
-                            Duis ex ad cupidatat tempor Excepteur cillum cupidatat fugiat nostrud cupidatat dolor 
-                            sunt sint sit nisi est eu exercitation incididunt adipisicing veniam velit id fugiat 
-                            enim mollit amet anim veniam dolor dolor irure velit commodo cillum sit nulla ullamco 
-                            magna amet magna cupidatat qui labore cillum sit in tempor veniam consequat non laborum 
-                            adipisicing aliqua ea nisi sint ut quis proident ullamco ut dolore culpa occaecat ut 
-                            laboris in sit minim cupidatat ut dolor voluptate enim veniam consequat occaecat fugiat 
-                            in adipisicing in amet Ut nulla nisi non ut enim aliqua laborum mollit quis nostrud sed sed.
-                            </p>
-    
-                            <h2>Large Heading</h2>
-    
-                            <p>
-                            Harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta 
-                            nobis est eligendi optio cumque nihil impedit quo minus <a href="http://#">omnis voluptas assumenda est</a> 
-                            id quod maxime placeat facere possimus, omnis dolor repellendus. Temporibus autem quibusdam et 
-                            aut officiis debitis aut rerum necessitatibus saepe eveniet ut et.</p>
-    
-                            <blockquote>
-                                <p>
-                                For God so loved the world, that he gave his only Son, that whoever believes in 
-                                him should not perish but have eternal life. For God did not send his Son into 
-                                the world to condemn the world, but in order that the world might be 
-                                saved through him.
-                                </p>
-                                <cite>John 3:16-17 ESV</cite>
-                            </blockquote>
-    
-                            <p>
-                            Odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti dolores 
-                            et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa. 
-                            Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit 
-                            libero, a pharetra augue laboris in sit minim cupidatat ut dolor voluptate enim veniam consequat 
-                            occaecat fugiat in adipisicing in amet Ut nulla nisi non ut enim aliqua laborum mollit quis nostrud sed sed..</p>
-    
-                            <h3>Smaller Heading</h3>
-    
-                            <p>
-                            Quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est 
-                            eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas 
-                            assumenda est, omnis dolor repellendus.
-                            </p>
-    
-                            <p>
-                            Quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est 
-                            eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas 
-                            assumenda est, omnis dolor repellendus.
-                            </p>
-                            
-<pre><code class="language-css">
-    code {
-        font-size: 1.4rem;
-        margin: 0 .2rem;
-        padding: .2rem .6rem;
-        white-space: nowrap;
-        background: #F1F1F1;
-        border: 1px solid #E1E1E1;	
-        border-radius: 3px;
-    }
-</code></pre>
-                                
-                            <p>
-                            Odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti dolores et 
-                            quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa.</p>
-    
-                            <ul>
-                                <li>Donec nulla non metus auctor fringilla.
-                                    <ul>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                    </ul>
-                                </li>
-                                <li>Donec nulla non metus auctor fringilla.</li>
-                                <li>Donec nulla non metus auctor fringilla.</li>
-                            </ul>
-    
-                            <p>
-                            Odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti dolores et quas 
-                            molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa. Aenean eu leo quam. 
-                            Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue 
-                            laboris in sit minim cupidatat ut dolor voluptate enim veniam consequat occaecat fugiat in adipisicing 
-                            in amet Ut nulla nisi non ut enim aliqua laborum mollit quis nostrud sed sed.
-                            </p>
-
-                        </div> <!-- end s-entry__entry-content -->
-
-                        <div class="s-content__entry-meta">
-
-                            <div class="entry-author meta-blk">
-                                <div class="author-avatar">
-                                    <img class="avatar" src="images/avatars/user-06.jpg" alt="">
-                                </div>
-                                <div class="byline">
-                                    <span class="bytext">Posted By</span>
-                                    <a href="#0">John Doe</a>
-                                </div>
-                            </div>
-
-                            <div class="meta-bottom">
-                                
-                                <div class="entry-cat-links meta-blk">
-                                    <div class="cat-links">
-                                        <span>In</span> 
-                                        <a href="#0">Frontend</a>
-                                        <a href="#0">Design</a>
-                                        <a href="#0">Work</a>
-                                    </div>
-
-                                    <span>On</span>
-                                    Oct 5, 2020
-                                </div>
-
-                                <div class="entry-tags meta-blk">
-                                    <span class="tagtext">Tags</span>
-                                    <a href="#">orci</a>
-                                    <a href="#">lectus</a>
-                                    <a href="#">varius</a>
-                                    <a href="#">turpis</a>
-                                </div>
-
-                            </div>
-
-                        </div> <!-- s-content__entry-meta -->
-
-                        <div class="s-content__pagenav">
-                            <div class="prev-nav">
-                                <a href="#" rel="prev">
-                                    <span>Previous</span>
-                                    Tips on Minimalist Design 
-                                </a>
-                            </div>
-                            <div class="next-nav">
-                                <a href="#" rel="next">
-                                    <span>Next</span>
-                                    A Practical Guide to a Minimalist Lifestyle.
-                                </a>
-                            </div>
-                         </div> <!-- end s-content__pagenav -->
-
-                    </div> <!-- end s-content__primary -->
-                </article> <!-- end entry -->
-
-            </div> <!-- end column -->
-        </div> <!-- end row -->
-
-
-        <!-- comments
+        <!-- page header
         ================================================== -->
-        <div class="comments-wrap">
-
-            <div id="comments" class="row">
+        <div class="s-pageheader">
+            <div class="row">
                 <div class="column large-12">
-
-                    <h3>5 Comments</h3>
-
-                    <!-- START commentlist -->
-                    <ol class="commentlist">
-
-                        <li class="depth-1 comment">
-
-                            <div class="comment__avatar">
-                                <img class="avatar" src="images/avatars/user-01.jpg" alt="" width="50" height="50">
-                            </div>
-
-                            <div class="comment__content">
-
-                                <div class="comment__info">
-                                    <div class="comment__author">Itachi Uchiha</div>
-
-                                    <div class="comment__meta">
-                                        <div class="comment__time">Oct 05, 2020</div>
-                                        <div class="comment__reply">
-                                            <a class="comment-reply-link" href="#0">Reply</a>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="comment__text">
-                                <p>Adhuc quaerendum est ne, vis ut harum tantas noluisse, id suas iisque mei. Nec te inani ponderum vulputate,
-                                facilisi expetenda has et. Iudico dictas scriptorem an vim, ei alia mentitum est, ne has voluptua praesent.</p>
-                                </div>
-
-                            </div>
-
-                        </li> <!-- end comment level 1 -->
-
-                        <li class="thread-alt depth-1 comment">
-
-                            <div class="comment__avatar">
-                                <img class="avatar" src="images/avatars/user-04.jpg" alt="" width="50" height="50">
-                            </div>
-
-                            <div class="comment__content">
-
-                                <div class="comment__info">
-                                    <div class="comment__author">John Doe</div>
-
-                                    <div class="comment__meta">
-                                        <div class="comment__time">Oct 05, 2020</div>
-                                        <div class="comment__reply">
-                                            <a class="comment-reply-link" href="#0">Reply</a>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="comment__text">
-                                <p>Sumo euismod dissentiunt ne sit, ad eos iudico qualisque adversarium, tota falli et mei. Esse euismod
-                                urbanitas ut sed, et duo scaevola pericula splendide. Primis veritus contentiones nec ad, nec et
-                                tantas semper delicatissimi.</p>
-                                </div>
-
-                            </div>
-
-                            <ul class="children">
-
-                                <li class="depth-2 comment">
-
-                                    <div class="comment__avatar">
-                                        <img class="avatar" src="images/avatars/user-03.jpg" alt="" width="50" height="50">
-                                    </div>
-
-                                    <div class="comment__content">
-
-                                        <div class="comment__info">
-                                            <div class="comment__author">Kakashi Hatake</div>
-
-                                            <div class="comment__meta">
-                                                <div class="comment__time">Oct 05, 2020</div>
-                                                <div class="comment__reply">
-                                                    <a class="comment-reply-link" href="#0">Reply</a>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="comment__text">
-                                            <p>Duis sed odio sit amet nibh vulputate
-                                            cursus a sit amet mauris. Morbi accumsan ipsum velit. Duis sed odio sit amet nibh vulputate
-                                            cursus a sit amet mauris</p>
-                                        </div>
-
-                                    </div>
-
-                                    <ul class="children">
-
-                                        <li class="depth-3 comment">
-
-                                            <div class="comment__avatar">
-                                                <img class="avatar" src="images/avatars/user-04.jpg" alt="" width="50" height="50">
-                                            </div>
-
-                                            <div class="comment__content">
-
-                                                <div class="comment__info">
-                                                    <div class="comment__author">John Doe</div>
-
-                                                    <div class="comment__meta">
-                                                        <div class="comment__time">Oct 04, 2020</div>
-                                                        <div class="comment__reply">
-                                                            <a class="comment-reply-link" href="#0">Reply</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="comment__text">
-                                                <p>Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est
-                                                etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>
-                                                </div>
-
-                                            </div>
-
-                                        </li>
-
-                                    </ul>
-
-                                </li>
-
-                            </ul>
-
-                        </li> <!-- end comment level 1 -->
-
-                        <li class="depth-1 comment">
-
-                            <div class="comment__avatar">
-                                <img class="avatar" src="images/avatars/user-02.jpg" alt="" width="50" height="50">
-                            </div>
-
-                            <div class="comment__content">
-
-                                <div class="comment__info">
-                                    <div class="comment__author">Shikamaru Nara</div>
-
-                                    <div class="comment__meta">
-                                        <div class="comment__time">Oct 03, 2020</div>
-                                        <div class="comment__reply">
-                                            <a class="comment-reply-link" href="#0">Reply</a>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="comment__text">
-                                <p>Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem.</p>
-                                </div>
-
-                            </div>
-
-                        </li>  <!-- end comment level 1 -->
-
-                    </ol>
-                    <!-- END commentlist -->
-
-                </div> <!-- end col-full -->
-            </div> <!-- end comments -->
-
-
-            <div class="row comment-respond">
-
-                <!-- START respond -->
-                <div id="respond" class="column">
-
-                    <h3>
-                    Add Comment 
-                    <span>Your email address will not be published.</span>
-                    </h3>
-
-                    <form name="contactForm" id="contactForm" method="post" action="" autocomplete="off">
-                        <fieldset>
-
-                            <div class="form-field">
-                                <input name="cName" id="cName" class="h-full-width h-remove-bottom" placeholder="Your Name" value="" type="text">
-                            </div>
-
-                            <div class="form-field">
-                                <input name="cEmail" id="cEmail" class="h-full-width h-remove-bottom" placeholder="Your Email" value="" type="text">
-                            </div>
-
-                            <div class="form-field">
-                                <input name="cWebsite" id="cWebsite" class="h-full-width h-remove-bottom" placeholder="Website" value="" type="text">
-                            </div>
-
-                            <div class="message form-field">
-                                <textarea name="cMessage" id="cMessage" class="h-full-width" placeholder="Your Message"></textarea>
-                            </div>
-
-                            <br>
-                            <input name="submit" id="submit" class="btn btn--primary btn-wide btn--large h-full-width" value="Add Comment" type="submit">
-
-                        </fieldset>
-                    </form> <!-- end form -->
-
+                    <h1 class="page-title">
+                        Shooter
+                    </h1>
                 </div>
-                <!-- END respond-->
+            </div>
+        </div> <!-- end s-pageheader-->
+        
 
-            </div> <!-- end comment-respond -->
+        <!-- masonry
+        ================================================== -->
+        <div class="s-bricks s-bricks--half-top-padding">
 
-        </div> <!-- end comments-wrap -->
+            <div class="masonry">
+                <div class="bricks-wrapper h-group">
 
+                    <div class="grid-sizer"></div>
+
+                    <div class="lines">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+
+                    <article class="brick entry" data-aos="fade-up">
+    
+                        <div class="entry__thumb">
+                            <a href="single-standard.html" class="thumb-link">
+                                <img src="images/thumbs/masonry/macbook-600.jpg" 
+                                     srcset="images/thumbs/masonry/macbook-600.jpg 1x, images/thumbs/masonry/macbook-1200.jpg 2x" alt="">
+                            </a>
+                        </div> <!-- end entry__thumb -->
+    
+                        <div class="entry__text">
+                            <div class="entry__header">
+                                <h1 class="entry__title"><a href="https://www.dreamhost.com/r.cgi?287326">Need Web Hosting for Your Websites?</a></h1>
+                                
+                                <div class="entry__meta">
+                                    <span class="byline"">By:
+                                        <span class='author'>
+                                            <a href="https://www.dreamhost.com/r.cgi?287326">StyleShout</a>
+                                    </span>
+                                </span>
+                                    <span class="cat-links">
+                                        <a href="https://www.dreamhost.com/r.cgi?287326">Site Partner</a>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="entry__excerpt">
+                                <p>
+                                Need hosting? We would highly recommend DreamHost.
+                                Enjoy 100% in-house support, guaranteed performance and uptime, 1-click installs, and a super-intuitive control panel to make managing your websites and projects easy.
+                                </p>
+                            </div>
+                            <a class="entry__more-link" href="https://www.dreamhost.com/r.cgi?287326">Learn More</a>
+                        </div> <!-- end entry__text -->
+                    
+                    </article> <!-- end article -->
+
+                    <article class="brick entry" data-aos="fade-up">
+        
+                        <div class="entry__thumb">
+                            <a href="single-standard.html" class="thumb-link">
+                                <img src="images/thumbs/masonry/woodcraft-600.jpg" 
+                                     srcset="images/thumbs/masonry/woodcraft-600.jpg 1x, images/thumbs/masonry/woodcraft-1200.jpg 2x" alt="">
+                            </a>
+                        </div> <!-- end entry__thumb -->
+        
+                        <div class="entry__text">
+                            <div class="entry__header">
+                                <h1 class="entry__title"><a href="single-standard.html">Just a Normal Simple Blog Post.</a></h1>
+        
+                                <div class="entry__meta">
+                                    <span class="byline"">By:
+                                        <span class='author'>
+                                            <a href="#0">Naruto Uzumaki</a>
+                                    </span>
+                                </span>
+                                    <span class="cat-links">
+                                        <a href="#">Design</a> 
+                                        <a href="#">Photography</a>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="entry__excerpt">
+                                <p>
+                                Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua cillum in consequat consequat in culpa in anim.
+                                </p>
+                            </div>
+                            <a class="entry__more-link" href="#0">Read More</a>
+                        </div> <!-- end entry__text -->
+        
+                    </article> <!-- end entry -->
+    
+                    <article class="brick entry" data-aos="fade-up">
+    
+                        <div class="entry__thumb">
+                            <a href="single-standard.html" class="thumb-link">
+                                <img src="images/thumbs/masonry/tulips-600.jpg" 
+                                     srcset="images/thumbs/masonry/tulips-600.jpg 1x, images/thumbs/masonry/tulips-1200.jpg 2x" alt="">
+                            </a>
+                        </div>  <!-- end entry__thumb -->
+    
+                        <div class="entry__text">
+                            <div class="entry__header">
+                                <h1 class="entry__title"><a href="single-standard.html">10 Interesting Facts About Caffeine.</a></h1>
+                                
+                                <div class="entry__meta">
+                                    <span class="byline"">By:
+                                        <span class='author'>
+                                            <a href="#0">Shikamaru Nara</a>
+                                    </span>
+                                </span>
+                                    <span class="cat-links">
+                                        <a href="#">Health</a>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="entry__excerpt">
+                                <p>
+                                Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua cillum in consequat consequat in culpa in anim.
+                                </p>
+                            </div>
+                            <a class="entry__more-link" href="#0">Read More</a>
+                        </div> <!-- end entry__text -->
+                    
+                    </article> <!-- end article -->
+
+                    <article class="brick entry" data-aos="fade-up">
+        
+                        <div class="entry__thumb">
+                            <a href="single-standard.html" class="thumb-link">
+                                <img src="images/thumbs/masonry/grayscale-600.jpg" 
+                                     srcset="images/thumbs/masonry/grayscale-600.jpg 1x, images/thumbs/masonry/grayscale-1200.jpg 2x" alt="">
+                            </a>
+                        </div> <!-- end entry__thumb -->
+        
+                        <div class="entry__text">
+                            <div class="entry__header">
+                                <h1 class="entry__title"><a href="single-standard.html">5  Grayscale Coloring Techniques.</a></h1>
+
+                                <div class="entry__meta">
+                                    <span class="byline"">By:
+                                        <span class='author'>
+                                            <a href="#0">Susuke Uchiha</a>
+                                        </span>
+                                    </span>
+                                    <span class="cat-links">
+                                        <a href="#">Design</a>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="entry__excerpt">
+                                <p>
+                                Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua cillum in consequat consequat in culpa in anim.
+                                </p>
+                            </div>
+                            <a class="entry__more-link" href="#0">Read More</a>
+                        </div> <!-- end entry__text -->
+                        
+                    </article> <!-- end article -->
+
+                    <article class="brick entry" data-aos="fade-up">
+    
+                        <div class="entry__thumb">
+                            <a href="single-standard.html" class="thumb-link">
+                                <img src="images/thumbs/masonry/walk-600.jpg" 
+                                     srcset="images/thumbs/masonry/walk-600.jpg 1x, images/thumbs/masonry/walk-1200.jpg 2x" alt="">
+                            </a>
+                        </div> <!-- end entry__thumb -->
+    
+                        <div class="entry__text">
+                            <div class="entry__header">
+                                <h1 class="entry__title"><a href="single-standard.html">Using Repetition and Patterns in Photography.</a></h1>
+                                
+                                <div class="entry__meta">
+                                    <span class="byline"">By:
+                                        <span class='author'>
+                                            <a href="#0">Naruto Uzumaki</a>
+                                    </span>
+                                </span>
+                                    <span class="cat-links">
+                                        <a href="#">Work</a> 
+                                        <a href="#">Lifestyle</a>
+                                    </span>
+                                </div>
+                                
+                            </div>
+                            <div class="entry__excerpt">
+                                <p>
+                                Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua cillum in consequat consequat in culpa in anim.
+                                </p>
+                            </div>
+                            <a class="entry__more-link" href="#0">Read More</a>
+                        </div> <!-- end entry__text -->
+                    
+                    </article> <!-- end article -->
+    
+                    <article class="brick entry" data-aos="fade-up">
+            
+                        <div class="entry__thumb">
+                            <a href="single-standard.html" class="thumb-link">
+                                <img src="images/thumbs/masonry/jump-600.jpg" 
+                                     srcset="images/thumbs/masonry/jump-600.jpg 1x, images/thumbs/masonry/jump-1200.jpg 2x" alt="">
+                            </a>
+                        </div> <!-- end entry__thumb -->
+            
+                        <div class="entry__text">
+                            <div class="entry__header">
+                                <h1 class="entry__title"><a href="single-standard.html">Create Meaningful Family Moments.</a></h1>
+                                
+                                <div class="entry__meta">
+                                    <span class="byline"">By:
+                                        <span class='author'>
+                                            <a href="#0">Naruto Uzumaki</a>
+                                    </span>
+                                </span>
+                                    <span class="cat-links">
+                                        <a href="#">Family</a>
+                                        <a href="#">Relationship</a>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="entry__excerpt">
+                                <p>
+                                Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua cillum in consequat consequat in culpa in anim.
+                                </p>
+                            </div>
+                            <a class="entry__more-link" href="#0">Read More</a>
+                        </div> <!-- end entry__text -->
+                            
+                    </article> <!-- end article -->
+    
+                    <article class="brick entry" data-aos="fade-up">
+    
+                        <div class="entry__thumb">
+                            <a href="single-standard.html" class="thumb-link">
+                                <img src="images/thumbs/masonry/real-600.jpg" 
+                                     srcset="images/thumbs/masonry/real-600.jpg 1x, images/thumbs/masonry/real-1200.jpg 2x" alt="">
+                            </a>
+                        </div> <!-- end entry__thumb -->
+    
+                        <div class="entry__text">
+                            <div class="entry__header">
+                                <h1 class="entry__title"><a href="single-standard.html">How We Live Is What Makes Us Real.</a></h1>
+                                
+                                <div class="entry__meta">
+                                    <span class="byline"">By:
+                                        <span class='author'>
+                                            <a href="#0">Naruto Uzumaki</a>
+                                    </span>
+                                </span>
+                                    <span class="cat-links">
+                                        <a href="#">Travel</a> 
+                                        <a href="#">Vacation</a>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="entry__excerpt">
+                                <p>
+                                Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua cillum in consequat consequat in culpa in anim.
+                                </p>
+                            </div>
+                            <a class="entry__more-link" href="#0">Read More</a>
+                        </div> <!-- end entry__text -->
+                    
+                    </article> <!-- end article -->
+    
+                    <article class="brick entry" data-aos="fade-up">
+    
+                        <div class="entry__thumb">
+                            <a href="single-standard.html" class="thumb-link">
+                                <img src="images/thumbs/masonry/lamp-600.jpg" 
+                                     srcset="images/thumbs/masonry/lamp-600.jpg 1x, images/thumbs/masonry/lamp-1200.jpg 2x" alt="">
+                            </a>
+                        </div> <!-- end entry__thumb -->
+    
+                        <div class="entry__text">
+                            <div class="entry__header">
+                                <h1 class="entry__title"><a href="single-standard.html">Symmetry In Modern Design.</a></h1>
+                                
+                                <div class="entry__meta">
+                                    <span class="byline"">By:
+                                        <span class='author'>
+                                            <a href="#0">Kakakshi Hatake</a>
+                                    </span>
+                                </span>
+                                    <span class="cat-links">
+                                        <a href="#">Design</a> 
+                                        <a href="#">Photography</a>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="entry__excerpt">
+                                <p>
+                                Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua cillum in consequat consequat in culpa in anim.
+                                </p>
+                            </div>
+                            <a class="entry__more-link" href="#0">Read More</a>
+                        </div> <!-- end entry__text -->
+                    
+                    </article> <!-- end article -->
+
+                    <article class="brick entry" data-aos="fade-up">
+    
+                        <div class="entry__thumb">
+                            <a href="single-standard.html" class="thumb-link">
+                                <img src="images/thumbs/masonry/clock-600.jpg" 
+                                     srcset="images/thumbs/masonry/clock-600.jpg 1x, images/thumbs/masonry/clock-1200.jpg 2x" alt="">
+                            </a>
+                        </div> <!-- end entry__thumb -->
+    
+                        <div class="entry__text">
+                            <div class="entry__header">
+                                <h1 class="entry__title"><a href="single-standard.html">10 Tips for Managing Time Effectively.</a></h1>
+    
+                                <div class="entry__meta">
+                                    <span class="byline"">By:
+                                        <span class='author'>
+                                            <a href="#0">John Doe</a>
+                                    </span>
+                                </span>
+                                    <span class="cat-links">
+                                        <a href="#">Lifestyle</a>
+                                        <a href="#">Work</a>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="entry__excerpt">
+                                <p>
+                                Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua cillum in consequat consequat in culpa in anim.
+                                </p>
+                            </div>
+                            <a class="entry__more-link" href="#0">Read More</a>
+                        </div> <!-- end entry__text -->
+                    
+                    </article> <!-- end article -->
+
+                    <article class="brick entry" data-aos="fade-up">
+    
+                        <div class="entry__thumb">
+                            <a href="single-standard.html" class="thumb-link">
+                                <img src="images/thumbs/masonry/beetle-600.jpg" 
+                                     srcset="images/thumbs/masonry/beetle-600.jpg 1x, images/thumbs/masonry/beetle-1200.jpg 2x" alt="">
+                            </a>
+                        </div> <!-- end entry__thumb -->
+    
+                        <div class="entry__text">
+                            <div class="entry__header">
+                                <h1 class="entry__title"><a href="single-standard.html">Throwback To The Good Old Days.</a></h1>
+                                
+                                <div class="entry__meta">
+                                    <span class="byline"">By:
+                                        <span class='author'>
+                                            <a href="#0">Sakura Haruno</a>
+                                    </span>
+                                </span>
+                                    <span class="cat-links">
+                                        <a href="#">Lifestyle</a>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="entry__excerpt">
+                                <p>
+                                Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua cillum in consequat consequat in culpa in anim.
+                                </p>
+                            </div>
+                            <a class="entry__more-link" href="#0">Read More</a>
+                        </div> <!-- end entry__text -->
+                    
+                    </article> <!-- end article -->
+
+                    <article class="brick entry" data-aos="fade-up">
+    
+                        <div class="entry__thumb">
+                            <a href="single-standard.html" class="thumb-link">
+                                <img src="images/thumbs/masonry/phone-and-keyboard-600.jpg" 
+                                     srcset="images/thumbs/masonry/phone-and-keyboard-600.jpg 1x, images/thumbs/masonry/phone-and-keyboard-1200.jpg 2x" alt="">
+                            </a>
+                        </div> <!-- end entry__thumb -->
+    
+                        <div class="entry__text">
+                            <div class="entry__header">
+                                <h1 class="entry__title"><a href="single-standard.html">3 Reasons to Keep Your Workplace Tidy.</a></h1>
+                                
+                                <div class="entry__meta">
+                                    <span class="byline"">By:
+                                        <span class='author'>
+                                            <a href="#0">Sakura Haruno</a>
+                                    </span>
+                                </span>
+                                    <span class="cat-links">
+                                        <a href="#">Work</a>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="entry__excerpt">
+                                <p>
+                                Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua cillum in consequat consequat in culpa in anim.
+                                </p>
+                            </div>
+                            <a class="entry__more-link" href="#0">Read More</a>
+                        </div> <!-- end entry__text -->
+                    
+                    </article> <!-- end article -->
+
+                    <article class="brick entry" data-aos="fade-up">
+    
+                        <div class="entry__thumb">
+                            <a href="single-standard.html" class="thumb-link">
+                                <img src="images/thumbs/masonry/seashore-600.jpg" 
+                                     srcset="images/thumbs/masonry/seashore-600.jpg 1x, images/thumbs/masonry/seashore-1200.jpg 2x" alt="">
+                            </a>
+                        </div> <!-- end entry__thumb -->
+    
+                        <div class="entry__text">
+                            <div class="entry__header">
+                                <h1 class="entry__title"><a href="single-standard.html">What The Beach Does to Your Brain.</a></h1>
+                                
+                                <div class="entry__meta">
+                                    <span class="byline"">By:
+                                        <span class='author'>
+                                            <a href="#0">Naruto Uzumaki</a>
+                                    </span>
+                                </span>
+                                    <span class="cat-links">
+                                        <a href="#">Health</a> 
+                                        <a href="#">Vacation</a>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="entry__excerpt">
+                                <p>
+                                Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua cillum in consequat consequat in culpa in anim.
+                                </p>
+                            </div>
+                            <a class="entry__more-link" href="#0">Read More</a>
+                        </div> <!-- end entry__text -->
+                    
+                    </article> <!-- end article -->
+
+                </div> <!-- end brick-wrapper -->
+
+            </div> <!-- end masonry -->
+
+            <div class="row">
+                <div class="column large-12">
+                    <nav class="pgn">
+                        <ul>
+                            <li>
+                                <span class="pgn__prev" href="#0">
+                                    Prev
+                                </span>
+                            </li>
+                            <li><a class="pgn__num" href="#0">1</a></li>
+                            <li><span class="pgn__num current">2</span></li>
+                            <li><a class="pgn__num" href="#0">3</a></li>
+                            <li><a class="pgn__num" href="#0">4</a></li>
+                            <li><a class="pgn__num" href="#0">5</a></li>
+                            <li><span class="pgn__num dots">…</span></li>
+                            <li><a class="pgn__num" href="#0">8</a></li>
+                            <li>
+                                <span class="pgn__next" href="#0">
+                                    Next
+                                </span>
+                            </li>
+                        </ul>
+                    </nav> <!-- end pgn -->
+                </div> <!-- end column -->
+            </div> <!-- end row -->
+
+        </div> <!-- end s-bricks -->
 
     </section> <!-- end s-content -->
 
