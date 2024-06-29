@@ -46,21 +46,21 @@ body {
 
 /* Background Images */
 .pubg {
-    background-image: url('pubg.png');
+    background-image: url('images/pubg.jpg');
 }
 
 .web-hosting {
-    background-image: url('image1.jpg');
+    background-image: url('images/cod');
 }
 
 .blog-post {
-    background-image: url('image2.jpg');
+    background-image: url('images/image2.jpg');
 }
 
 .caffeine-facts {
-    background-image: url('image3.jpg');
+    background-image: url('images/image3.jpg');
 }
 
 .grayscale-techniques {
-    background-image: url('image4.jpg');
+    background-image: url('images/image4.jpg');
 }

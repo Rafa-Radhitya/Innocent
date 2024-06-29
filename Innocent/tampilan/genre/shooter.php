@@ -61,24 +61,22 @@
                 </div>
             </div>
         </div> <!-- end s-pageheader-->
-        
-
-        <!-- masonry
-        ================================================== -->
 </head>
 <body>
     <div class="container">
         <div class="card">
-            <div class="image pubg"></div>
+            <div class="image PUBG"></div>
+            <a href="single-standard.html" class="thumb-link">
+            <img src="images/pubg.jpg" alt="">
             <h2>PUBG: BATTLEGROUNDS</h2>
-            <p>By: Game Developer &bull; Gaming</p>
+            <p>By: Game Developer</p>
             <p>PUBG: BATTLEGROUNDS is a battle royale shooter where 100 players fight for survival. Gather supplies and outwit your opponents to become the last person standing.</p>
             <a href="#">Learn More</a>
         </div>
         <div class="card">
             <div class="image web-hosting"></div>
             <h2>Call of Duty</h2>
-            <p>By: Infinity Ward &bull; treysrch, Sledgehammeer Games</p>
+            <p>By: Infinity Ward</p>
             <p>Call of Duty®: Black Ops III Zombies Chronicles Edition includes the full base game and the Zombies Chronicles content expansion.
 
 Call of Duty: Black Ops III combines three unique game modes: Campaign, Multiplayer, and Zombies, providing fans with the deepest and most ambitious Call of Duty ever.
@@ -89,20 +87,40 @@ The Zombies Chronicles content expansion delivers 8 remastered classic Zombies m
         <div class="card">
             <div class="image blog-post"></div>
             <h2>Dead Effect 2</h2>
-            <p>By: Naruto Uzumaki &bull; Design, Photography</p>
-            <p>Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua cillum in consequat consequat in culpa in anim.</p>
+            <p>By:BadFly Interactive</p>
+            <p>Dead Effect 2 is the newest addition to the acclaimed Dead Effect franchise. This action sci-fi shooter is looking to push the boundaries of first-person shooters to new levels with slick graphics, rich narrative and RPG elements.
+
+Play the single-player missions at your own pace or engage your friends in the cooperative or PvP multiplayer mode. Train, develop your character, collect and upgrade countless weapons, gear and body implants and take control of the monster-infested ship.</p>
         </div>
         <div class="card">
             <div class="image caffeine-facts"></div>
-            <h2>10 Interesting Facts About Caffeine.</h2>
-            <p>By: Shikamaru Nara &bull; Health</p>
+            <h2>Doom Eternal</h2>
+            <p>By: id Software</p>
             <p>Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua cillum in consequat consequat in culpa in anim.</p>
             <a href="#">Read More</a>
         </div>
         <div class="card">
             <div class="image grayscale-techniques"></div>
-            <h2>5 Grayscale Coloring Techniques.</h2>
-            <p>By: Susuke Uchiha &bull; Design</p>
+            <h2>Counter-Strike 2</h2>
+            <p>By: Valve</p>
+            <p>Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua cillum in consequat consequat in culpa in anim.</p>
+        </div>
+        <div class="card">
+            <div class="image grayscale-techniques"></div>
+            <h2>Hitman Sniper</h2>
+            <p>By: Square Enix Montreal</p>
+            <p>Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua cillum in consequat consequat in culpa in anim.</p>
+        </div>
+        <div class="card">
+            <div class="image grayscale-techniques"></div>
+            <h2>Modern Combat 5: Blackout</h2>
+            <p>By:Gameloft</p>
+            <p>Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua cillum in consequat consequat in culpa in anim.</p>
+        </div>
+        <div class="card">
+            <div class="image grayscale-techniques"></div>
+            <h2> Valorant</h2>
+            <p>By: Riot Games</p>
             <p>Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua cillum in consequat consequat in culpa in anim.</p>
         </div>
     </div>
