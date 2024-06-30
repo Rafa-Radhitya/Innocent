@@ -1,4 +1,4 @@
-    <!DOCTYPE html>
+<!DOCTYPE html>
     <html class="no-js" lang="en">
 
     <head>
@@ -56,18 +56,25 @@
 
                 <div class="s-hero__slide">
 
-                    <div class="s-hero__slide-bg" style="background-image: url('images/bg-core.png');"></div>
+                    <div class="s-hero__slide-bg" style="background-image: url('images/background_img.jpeg');"></div>
 
                     <div class="row s-hero__slide-content animate-this">
                         <div class="column">
                             <div class="s-hero__slide-meta">
-                            
-                        </div>
-
-                        <h1 class="s-hero__slide-text">
+                                <span class="cat-links">
+                                    <a href="#0">Lifestyle</a>
+                                    <a href="#0">Design</a>
+                                </span>
+                                <span class="byline">
+                                    Posted by
+                                    <span class="author">
+                                        <a href="#0">Jonathan Doe</a>
+                                    </span>
+                                </span>
+                            </div>
+                            <h1 class="s-hero__slide-text">
                                 <a href="#0">
-                                 Discover
-                                 data and games all in One Place!
+                                    Tips and Ideas to Help You Start Freelancing.
                                 </a>
                             </h1>
                         </div>
@@ -77,17 +84,24 @@
 
                 <div class="s-hero__slide">
 
-                    <div class="s-hero__slide-bg" style="background-image: url('images/Ride4.png');"></div>
+                    <div class="s-hero__slide-bg" style="background-image: url('images/thumbs/masonry/adventure.jpg');"></div>
 
                     <div class="row s-hero__slide-content animate-this">
                         <div class="column">
                             <div class="s-hero__slide-meta">
-                               
+                                <span class="cat-links">
+                                    <a href="#0">Work</a>
+                                </span>
+                                <span class="byline">
+                                    Posted by
+                                    <span class="author">
+                                        <a href="#0">Juan Dela Cruz</a>
+                                    </span>
+                                </span>
                             </div>
                             <h1 class="s-hero__slide-text">
                                 <a href="#0">
-                                 Discover
-                                 data and games all in One Place!
+                                    Minimalism: The Art of Keeping It Simple.
                                 </a>
                             </h1>
                         </div>
@@ -95,24 +109,31 @@
 
                 </div> <!-- end s-hero__slide -->
 
-                <div class="s-hero__slide"">
+                <div class="s-hero__slide">
 
-                <div class=" s-hero__slide-bg" style="background-image: url('images/background_img.jpeg');"></div>
+                <div class=" s-hero__slide-bg" style="background-image: url('images/bg-core.png');"></div>
 
                 <div class="row s-hero__slide-content animate-this">
                     <div class="column">
                         <div class="s-hero__slide-meta">
-                            
+                            <span class="cat-links">
+                                <a href="#0">Health</a>
+                                <a href="#0">Lifestyle</a>
+                            </span>
+                            <span class="byline">
+                                Posted by
+                                <span class="author">
+                                    <a href="#0">Jane Doe</a>
+                                </span>
+                            </span>
                         </div>
-
                         <h1 class="s-hero__slide-text">
-                                <a href="#0">
-                                 Discover
-                                 data and games all in One Place!
-                                </a>
-                            </h1>
-                        </div>
+                            <a href="#0">
+                                Failure doesn't mean top game. it means trying again with existing experience
+                            </a>
+                        </h1>
                     </div>
+                </div>
 
             </div> <!-- end s-hero__slide -->
 
@@ -782,8 +803,8 @@
                 <div class="row">
                     <div class="column">
                         <div class="ss-copyright">
-                            <span>© Copyright Calvin 2020</span>
-                            <span>Design by <a href="https://www.styleshout.com/">StyleShout</a></span>
+                            <span>© Copyright Innocent 2024</span>
+                            <span>Design by <a href="https://www.styleshout.com/">Us</a></span>
                         </div> <!-- end ss-copyright -->
                     </div>
                 </div>

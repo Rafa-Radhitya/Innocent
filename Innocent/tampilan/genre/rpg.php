@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
+
 <head>
 
     <!--- basic page needs
@@ -17,7 +18,8 @@
     ================================================== -->
     <link rel="stylesheet" href="../css/vendor.css">
     <link rel="stylesheet" href="../css/styles.css">
-    <link rel="stylesheet" href="../css/coba.css">
+    <link rel="stylesheet" href="../css/genre.css">
+
 
     <!-- script
     ================================================== -->
@@ -38,8 +40,8 @@
 
     <!-- preloader
     ================================================== -->
-    <div id="preloader"> 
-    	<div id="loader"></div>
+    <div id="preloader">
+        <div id="loader"></div>
     </div>
 
 
@@ -47,9 +49,7 @@
     ================================================== -->
     <?php include '../header_footer/header.php'; ?>
 
-</head>
-<body>
-    <div class="container">
+    <!-- <div class="container">
         <button class="nav-button" id="prev">&lt;</button>
         <div class="slider">
             <div class="card">
@@ -113,10 +113,68 @@
                     <p>Ranked 72 in top sellers</p>
                 </div>
             </div>
-            <!-- Tambahkan lebih banyak kartu di sini -->
         </div>
         <button class="nav-button" id="next">&gt;</button>
-    </div>
-    <script src="coba.js"></script>
+    </div> -->
+    <!-- card buat game nanti pake yang ini aja -->
+    <section class="s-content">
+
+        <!-- page header
+        ================================================== -->
+        <div class="s-pageheader">
+            <div class="row">
+                <div class="column large-12">
+                    <h1 class="page-title">
+                        RPG
+                    </h1>
+                </div>
+            </div>
+        </div> <!-- end s-pageheader-->
+
+        <div class="container">
+            <div class="card">
+                <div class="image">
+                    <img src="../" alt="TERRARIA">
+                </div>
+                <h2>Terraria</h2>
+                <p>By: -</p>
+                <p>Terraria</p>
+                <a href="#">Learn More</a>
+            </div>
+            <!-- ahkir card game -->
+            <div class="card">
+                <div class="image">
+                    <img src="../images/" alt="Fallout 4">
+                </div>
+                <h2>Fallout 4</h2>
+                <p>By: -</p>
+                <p>Fallout 4</p>
+                <a href="#">Learn More</a>
+            </div>
+            <!-- ahkir card game -->
+            <div class="card">
+                <div class="image">
+                    <img src="../images/" alt="Fallout 4">
+                </div>
+                <h2>Fallout 4</h2>
+                <p>By: -</p>
+                <p>Fallout 4</p>
+                <a href="#">Learn More</a>
+            </div>
+            <!-- ahkir card game -->
+            <div class="card">
+                <div class="image">
+                    <img src="../images/" alt="Fallout 4">
+                </div>
+                <h2>Fallout 4</h2>
+                <p>By: -</p>
+                <p>Fallout 4</p>
+                <a href="#">Learn More</a>
+            </div>
+            <!-- ahkir card game -->
+
+        </div>
+    </section>
 </body>
+
 </html>
