@@ -17,6 +17,7 @@
     ================================================== -->
     <link rel="stylesheet" href="../css/vendor.css">
     <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../css/genre.css">
 
     <!-- script
     ================================================== -->
@@ -30,11 +31,6 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
 
-</head>
-
-<body id="top">
-
-
     <!-- preloader
     ================================================== -->
     <div id="preloader"> 
@@ -46,520 +42,123 @@
     ================================================== -->
     <?php include '../header_footer/header.php'; ?>
 
-      
+    
+<body id="top">
 
     <!-- content
     ================================================== -->
     <section class="s-content">
 
-        <div class="row">
-            <div class="column large-12">
 
-                <article class="s-content__entry format-standard">
-
-                    <div class="s-content__media">
-                        <div class="s-content__post-thumb">
-                            <div class="video-container">
-                                <iframe src="https://player.vimeo.com/video/117310401?color=339989&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-                            </div>
-                        </div>
-                    </div> <!-- end s-content__media -->
-
-                    <div class="s-content__entry-header">
-                        <h1 class="s-content__title s-content__title--post">Hey, This Is A Video Post.</h1>
-                    </div> <!-- end s-content__entry-header -->
-
-                    <div class="s-content__primary">
-
-                        <div class="s-content__entry-content">
-
-                            <p class="lead">
-                            Duis ex ad cupidatat tempor Excepteur cillum cupidatat fugiat nostrud cupidatat dolor 
-                            sunt sint sit nisi est eu exercitation incididunt adipisicing veniam velit id fugiat 
-                            enim mollit amet anim veniam dolor dolor irure velit commodo cillum sit nulla ullamco 
-                            magna amet magna cupidatat qui labore cillum sit in tempor veniam consequat non laborum 
-                            adipisicing aliqua ea nisi sint. Unde quod at minus quia velit ipsa ea qui. </p> 
-    
-                            <p>
-                            Duis ex ad cupidatat tempor Excepteur cillum cupidatat fugiat nostrud cupidatat dolor 
-                            sunt sint sit nisi est eu exercitation incididunt adipisicing veniam velit id fugiat 
-                            enim mollit amet anim veniam dolor dolor irure velit commodo cillum sit nulla ullamco 
-                            magna amet magna cupidatat qui labore cillum sit in tempor veniam consequat non laborum 
-                            adipisicing aliqua ea nisi sint ut quis proident ullamco ut dolore culpa occaecat ut 
-                            laboris in sit minim cupidatat ut dolor voluptate enim veniam consequat occaecat fugiat 
-                            in adipisicing in amet Ut nulla nisi non ut enim aliqua laborum mollit quis nostrud sed sed.
-                            </p>
-    
-                            <p>
-                                <img src="images/sample-1050.jpg" 
-                                        srcset="images/sample-2100.jpg 2100w, 
-                                                images/sample-1050.jpg 1050w, 
-                                                images/sample-525.jpg 525w" sizes="(max-width: 2100px) 100vw, 2100px" alt="">
-                            </p>
-    
-                            <p>
-                            Duis ex ad cupidatat tempor Excepteur cillum cupidatat fugiat nostrud cupidatat dolor 
-                            sunt sint sit nisi est eu exercitation incididunt adipisicing veniam velit id fugiat 
-                            enim mollit amet anim veniam dolor dolor irure velit commodo cillum sit nulla ullamco 
-                            magna amet magna cupidatat qui labore cillum sit in tempor veniam consequat non laborum 
-                            adipisicing aliqua ea nisi sint ut quis proident ullamco ut dolore culpa occaecat ut 
-                            laboris in sit minim cupidatat ut dolor voluptate enim veniam consequat occaecat fugiat 
-                            in adipisicing in amet Ut nulla nisi non ut enim aliqua laborum mollit quis nostrud sed sed.
-                            </p>
-    
-                            <h2>Large Heading</h2>
-    
-                            <p>
-                            Harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta 
-                            nobis est eligendi optio cumque nihil impedit quo minus <a href="http://#">omnis voluptas assumenda est</a> 
-                            id quod maxime placeat facere possimus, omnis dolor repellendus. Temporibus autem quibusdam et 
-                            aut officiis debitis aut rerum necessitatibus saepe eveniet ut et.</p>
-    
-                            <blockquote>
-                                <p>
-                                For God so loved the world, that he gave his only Son, that whoever believes in 
-                                him should not perish but have eternal life. For God did not send his Son into 
-                                the world to condemn the world, but in order that the world might be 
-                                saved through him.
-                                </p>
-                                <cite>John 3:16-17 ESV</cite>
-                            </blockquote>
-    
-                            <p>
-                            Odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti dolores 
-                            et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa. 
-                            Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit 
-                            libero, a pharetra augue laboris in sit minim cupidatat ut dolor voluptate enim veniam consequat 
-                            occaecat fugiat in adipisicing in amet Ut nulla nisi non ut enim aliqua laborum mollit quis nostrud sed sed..</p>
-    
-                            <h3>Smaller Heading</h3>
-    
-                            <p>
-                            Quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est 
-                            eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas 
-                            assumenda est, omnis dolor repellendus.
-                            </p>
-    
-                            <p>
-                            Quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est 
-                            eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas 
-                            assumenda est, omnis dolor repellendus.
-                            </p>
-                            
-<pre><code class="language-css">
-    code {
-        font-size: 1.4rem;
-        margin: 0 .2rem;
-        padding: .2rem .6rem;
-        white-space: nowrap;
-        background: #F1F1F1;
-        border: 1px solid #E1E1E1;	
-        border-radius: 3px;
-    }
-</code></pre>
-                                
-                            <p>
-                            Odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti dolores et 
-                            quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa.</p>
-    
-                            <ul>
-                                <li>Donec nulla non metus auctor fringilla.
-                                    <ul>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                    </ul>
-                                </li>
-                                <li>Donec nulla non metus auctor fringilla.</li>
-                                <li>Donec nulla non metus auctor fringilla.</li>
-                            </ul>
-    
-                            <p>
-                            Odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti dolores et quas 
-                            molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa. Aenean eu leo quam. 
-                            Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue 
-                            laboris in sit minim cupidatat ut dolor voluptate enim veniam consequat occaecat fugiat in adipisicing 
-                            in amet Ut nulla nisi non ut enim aliqua laborum mollit quis nostrud sed sed.
-                            </p>
-
-                        </div> <!-- end s-entry__entry-content -->
-
-                        <div class="s-content__entry-meta">
-
-                            <div class="entry-author meta-blk">
-                                <div class="author-avatar">
-                                    <img class="avatar" src="images/avatars/user-06.jpg" alt="">
-                                </div>
-                                <div class="byline">
-                                    <span class="bytext">Posted By</span>
-                                    <a href="#0">John Doe</a>
-                                </div>
-                            </div>
-
-                            <div class="meta-bottom">
-                                
-                                <div class="entry-cat-links meta-blk">
-                                    <div class="cat-links">
-                                        <span>In</span> 
-                                        <a href="#0">Frontend</a>
-                                        <a href="#0">Design</a>
-                                        <a href="#0">Work</a>
-                                    </div>
-
-                                    <span>On</span>
-                                    Oct 5, 2020
-                                </div>
-
-                                <div class="entry-tags meta-blk">
-                                    <span class="tagtext">Tags</span>
-                                    <a href="#">orci</a>
-                                    <a href="#">lectus</a>
-                                    <a href="#">varius</a>
-                                    <a href="#">turpis</a>
-                                </div>
-
-                            </div>
-
-                        </div> <!-- s-content__entry-meta -->
-
-                        <div class="s-content__pagenav">
-                            <div class="prev-nav">
-                                <a href="#" rel="prev">
-                                    <span>Previous</span>
-                                    Tips on Minimalist Design 
-                                </a>
-                            </div>
-                            <div class="next-nav">
-                                <a href="#" rel="next">
-                                    <span>Next</span>
-                                    A Practical Guide to a Minimalist Lifestyle.
-                                </a>
-                            </div>
-                         </div> <!-- end s-content__pagenav -->
-
-                    </div> <!-- end s-content__primary -->
-                </article> <!-- end entry -->
-
-            </div> <!-- end column -->
-        </div> <!-- end row -->
-
-
-        <!-- comments
+        <!-- page header
         ================================================== -->
-        <div class="comments-wrap">
-
-            <div id="comments" class="row">
+        <div class="s-pageheader">
+            <div class="row">
                 <div class="column large-12">
-
-                    <h3>5 Comments</h3>
-
-                    <!-- START commentlist -->
-                    <ol class="commentlist">
-
-                        <li class="depth-1 comment">
-
-                            <div class="comment__avatar">
-                                <img class="avatar" src="images/avatars/user-01.jpg" alt="" width="50" height="50">
-                            </div>
-
-                            <div class="comment__content">
-
-                                <div class="comment__info">
-                                    <div class="comment__author">Itachi Uchiha</div>
-
-                                    <div class="comment__meta">
-                                        <div class="comment__time">Oct 05, 2020</div>
-                                        <div class="comment__reply">
-                                            <a class="comment-reply-link" href="#0">Reply</a>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="comment__text">
-                                <p>Adhuc quaerendum est ne, vis ut harum tantas noluisse, id suas iisque mei. Nec te inani ponderum vulputate,
-                                facilisi expetenda has et. Iudico dictas scriptorem an vim, ei alia mentitum est, ne has voluptua praesent.</p>
-                                </div>
-
-                            </div>
-
-                        </li> <!-- end comment level 1 -->
-
-                        <li class="thread-alt depth-1 comment">
-
-                            <div class="comment__avatar">
-                                <img class="avatar" src="images/avatars/user-04.jpg" alt="" width="50" height="50">
-                            </div>
-
-                            <div class="comment__content">
-
-                                <div class="comment__info">
-                                    <div class="comment__author">John Doe</div>
-
-                                    <div class="comment__meta">
-                                        <div class="comment__time">Oct 05, 2020</div>
-                                        <div class="comment__reply">
-                                            <a class="comment-reply-link" href="#0">Reply</a>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="comment__text">
-                                <p>Sumo euismod dissentiunt ne sit, ad eos iudico qualisque adversarium, tota falli et mei. Esse euismod
-                                urbanitas ut sed, et duo scaevola pericula splendide. Primis veritus contentiones nec ad, nec et
-                                tantas semper delicatissimi.</p>
-                                </div>
-
-                            </div>
-
-                            <ul class="children">
-
-                                <li class="depth-2 comment">
-
-                                    <div class="comment__avatar">
-                                        <img class="avatar" src="images/avatars/user-03.jpg" alt="" width="50" height="50">
-                                    </div>
-
-                                    <div class="comment__content">
-
-                                        <div class="comment__info">
-                                            <div class="comment__author">Kakashi Hatake</div>
-
-                                            <div class="comment__meta">
-                                                <div class="comment__time">Oct 05, 2020</div>
-                                                <div class="comment__reply">
-                                                    <a class="comment-reply-link" href="#0">Reply</a>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="comment__text">
-                                            <p>Duis sed odio sit amet nibh vulputate
-                                            cursus a sit amet mauris. Morbi accumsan ipsum velit. Duis sed odio sit amet nibh vulputate
-                                            cursus a sit amet mauris</p>
-                                        </div>
-
-                                    </div>
-
-                                    <ul class="children">
-
-                                        <li class="depth-3 comment">
-
-                                            <div class="comment__avatar">
-                                                <img class="avatar" src="images/avatars/user-04.jpg" alt="" width="50" height="50">
-                                            </div>
-
-                                            <div class="comment__content">
-
-                                                <div class="comment__info">
-                                                    <div class="comment__author">John Doe</div>
-
-                                                    <div class="comment__meta">
-                                                        <div class="comment__time">Oct 04, 2020</div>
-                                                        <div class="comment__reply">
-                                                            <a class="comment-reply-link" href="#0">Reply</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="comment__text">
-                                                <p>Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est
-                                                etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>
-                                                </div>
-
-                                            </div>
-
-                                        </li>
-
-                                    </ul>
-
-                                </li>
-
-                            </ul>
-
-                        </li> <!-- end comment level 1 -->
-
-                        <li class="depth-1 comment">
-
-                            <div class="comment__avatar">
-                                <img class="avatar" src="images/avatars/user-02.jpg" alt="" width="50" height="50">
-                            </div>
-
-                            <div class="comment__content">
-
-                                <div class="comment__info">
-                                    <div class="comment__author">Shikamaru Nara</div>
-
-                                    <div class="comment__meta">
-                                        <div class="comment__time">Oct 03, 2020</div>
-                                        <div class="comment__reply">
-                                            <a class="comment-reply-link" href="#0">Reply</a>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="comment__text">
-                                <p>Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem.</p>
-                                </div>
-
-                            </div>
-
-                        </li>  <!-- end comment level 1 -->
-
-                    </ol>
-                    <!-- END commentlist -->
-
-                </div> <!-- end col-full -->
-            </div> <!-- end comments -->
-
-
-            <div class="row comment-respond">
-
-                <!-- START respond -->
-                <div id="respond" class="column">
-
-                    <h3>
-                    Add Comment 
-                    <span>Your email address will not be published.</span>
-                    </h3>
-
-                    <form name="contactForm" id="contactForm" method="post" action="" autocomplete="off">
-                        <fieldset>
-
-                            <div class="form-field">
-                                <input name="cName" id="cName" class="h-full-width h-remove-bottom" placeholder="Your Name" value="" type="text">
-                            </div>
-
-                            <div class="form-field">
-                                <input name="cEmail" id="cEmail" class="h-full-width h-remove-bottom" placeholder="Your Email" value="" type="text">
-                            </div>
-
-                            <div class="form-field">
-                                <input name="cWebsite" id="cWebsite" class="h-full-width h-remove-bottom" placeholder="Website" value="" type="text">
-                            </div>
-
-                            <div class="message form-field">
-                                <textarea name="cMessage" id="cMessage" class="h-full-width" placeholder="Your Message"></textarea>
-                            </div>
-
-                            <br>
-                            <input name="submit" id="submit" class="btn btn--primary btn-wide btn--large h-full-width" value="Add Comment" type="submit">
-
-                        </fieldset>
-                    </form> <!-- end form -->
-
+                    <h1 class="page-title">
+                        battle royal
+                    </h1>
                 </div>
-                <!-- END respond-->
-
-            </div> <!-- end comment-respond -->
-
-        </div> <!-- end comments-wrap -->
-
-
-    </section> <!-- end s-content -->
-
-
-    <!-- footer
-    ================================================== -->
-    <footer class="s-footer">
-
-        <div class="s-footer__main">
-
-            <div class="row">
-
-                <div class="column large-3 medium-6 tab-12 s-footer__info">
-
-                    <h5>About Our Site</h5>
-
-                    <p>
-                    Lorem ipsum Ut velit dolor Ut labore id fugiat in ut 
-                    fugiat nostrud qui in dolore commodo eu magna Duis 
-                    cillum dolor officia esse mollit proident Excepteur 
-                    exercitation nulla. Lorem ipsum In reprehenderit 
-                    commodo aliqua irure.
-                    </p>
-
-                </div> <!-- end s-footer__info -->
-
-                <div class="column large-2 medium-3 tab-6 s-footer__site-links">
-
-                    <h5>Site Links</h5>
-
-                    <ul>
-                        <li><a href="#0">About Us</a></li>
-                        <li><a href="#0">Blog</a></li>
-                        <li><a href="#0">FAQ</a></li>
-                        <li><a href="#0">Terms</a></li>
-                        <li><a href="#0">Privacy Policy</a></li>
-                    </ul>
-
-                </div> <!-- end s-footer__site-links -->  
-
-                <div class="column large-2 medium-3 tab-6 s-footer__social-links">
-
-                    <h5>Follow Us</h5>
-
-                    <ul>
-                        <li><a href="#0">Twitter</a></li>
-                        <li><a href="#0">Facebook</a></li>
-                        <li><a href="#0">Dribbble</a></li>
-                        <li><a href="#0">Pinterest</a></li>
-                        <li><a href="#0">Instagram</a></li>
-                    </ul>
-
-                </div> <!-- end s-footer__social links --> 
-
-                <div class="column large-3 medium-6 tab-12 s-footer__subscribe">
-
-                    <h5>Sign Up for Newsletter</h5>
-
-                    <p>Signup to get updates on articles, interviews and events.</p>
-
-                    <div class="subscribe-form">
-                
-                        <form id="mc-form" class="group" novalidate="true">
-
-                            <input type="email" value="" name="dEmail" class="email" id="mc-email" placeholder="Your Email Address" required=""> 
-                
-                            <input type="submit" name="subscribe" value="subscribe" >
-                
-                            <label for="mc-email" class="subscribe-message"></label>
-                
-                        </form>
-
-                    </div>
-
-                </div> <!-- end s-footer__subscribe -->
-
-            </div> <!-- end row -->
-
-        </div> <!-- end s-footer__main -->
-
-        <div class="s-footer__bottom">
-            <div class="row">
-                <div class="column">
-                    <div class="ss-copyright">
-                        <span>© Copyright Calvin 2020</span> 
-                        <span>Design by <a href="https://www.styleshout.com/">StyleShout</a></span>
-                    </div> <!-- end ss-copyright -->
-                </div>
-            </div> 
-
-            <div class="ss-go-top">
-                <a class="smoothscroll" title="Back to Top" href="#top">
-                    <svg viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg" width="15" height="15"><path d="M7.5 1.5l.354-.354L7.5.793l-.354.353.354.354zm-.354.354l4 4 .708-.708-4-4-.708.708zm0-.708l-4 4 .708.708 4-4-.708-.708zM7 1.5V14h1V1.5H7z" fill="currentColor"></path></svg>
-                </a>
-            </div> <!-- end ss-go-top -->
-        </div> <!-- end s-footer__bottom -->
-
-   </footer> <!-- end s-footer -->
-
-
-    <!-- Java Script
-    ================================================== -->
-    <script src="js/jquery-3.5.0.min.js"></script>
-    <script src="js/plugins.js"></script>
-    <script src="js/main.js"></script>
-
+            </div>
+        </div> <!-- end s-pageheader-->
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="image">
+                <img src="../images/tekken8.jpg" alt="Tekken">
+            </div>
+            <h2>Tekken 8</h2>
+            <p>Release date: Jan 26, 2024</p>
+            <p>By: Bandai Namco studios</p>
+            <p>Tekken 8 is a fighting video game developed and published by Bandai Namco Entertainment. As the latest installment in the long-running Tekken series, it continues the story of the Mishima family feud while introducing new characters and refined gameplay mechanics. Tekken 8 features stunning graphics powered by the latest technology, delivering highly detailed character models and dynamic environments.
+                 The game offers a variety of modes, including an in-depth story mode, arcade mode, and online multiplayer battles. Players can expect a blend of classic and new fighting techniques, intricate combos, and strategic gameplay. Tekken 8 also includes character customization options, allowing players to personalize their fighters' appearances and moves. With its rich legacy and innovative features, Tekken 8 aims to provide an engaging experience for both longtime fans and newcomers to the series.</p>
+                <a href="#">Read More</a>
+        </div>
+        <div class="card">
+            <div class="image">
+                <img src="../images/street.jpg" alt="street">
+            </div>
+            <h2>street Fighter 6</h2>
+            <p>Release date: Jun 8, 2024</p>
+            <p>By: Capcom </p>
+            <p> Street Fighter 6 is a fighting game developed and published by Capcom. As the latest entry in the iconic Street Fighter series, it continues the tradition of fast-paced, strategic combat with a roster of classic and new characters. The game features enhanced graphics and animations, providing a visually stunning experience with highly detailed fighters and dynamic backgrounds.
+                Street Fighter 6 introduces new gameplay mechanics, including the "Drive System," which allows players to perform various powerful moves and counters, adding depth to the combat strategy. The game offers multiple modes, such as a comprehensive story mode, arcade mode, and online multiplayer, where players can compete against others worldwide. Character customization and progression systems are also included, allowing players to tailor their fighters to their preferred play style. With its blend of familiar elements and innovative features, Street Fighter 6 aims to deliver an exciting and immersive fighting game experience..</p>
+                <a href="#">Read More</a>
+        </div>
+        <div class="card">
+            <div class="image">
+                <img src="../images/mortal.jpg" alt="mortal">
+            </div>
+            <h2>Mortal Combat 1</h2>
+            <p>Release date: sep 19, 2023</p>
+            <p>By: Netherrealm studios</p>
+            <p>Mortal Kombat 1 is a reboot of the classic fighting game series developed by NetherRealm Studios and published by Warner Bros. Interactive Entertainment. This game revisits the origins of the Mortal Kombat universe with a fresh narrative and updated mechanics while maintaining the series' signature brutal and visceral combat.
+                Mortal Kombat 1 features a roster of both iconic characters and new fighters, each with unique abilities and fighting styles. The game boasts high-definition graphics, realistic animations, and intricate details, enhancing the overall visual experience. Core gameplay elements include the signature Fatalities, brutal finishing moves that define the series, and new mechanics that add depth to the combat system.
+                The game offers various modes, including a story mode that delves into the backgrounds and motivations of the characters, arcade mode, and online multiplayer for competitive play. Mortal Kombat 1 also includes character customization options, allowing players to personalize their fighters' appearances and abilities. This reboot aims to attract both long-time fans and newcomers by combining nostalgic elements with modern innovations.</p>
+                <a href="#">Read More</a>
+        </div>
+        <div class="card">
+            <div class="image">
+                <img src="../images/dragon.jpg" alt="dragon">
+            </div>
+            <h2>Dragon Ball FighterZ</h2>
+            <p>Release date: jan 27, 2018</p>
+            <p>By: Arc System Works</p>
+            <p>Dragon Ball FighterZ is a critically acclaimed fighting game developed by Arc System Works and published by Bandai Namco Entertainment. Released in 2018, it features characters from the popular Dragon Ball franchise, delivering fast-paced, 3-on-3 tag team battles with stunning, anime-inspired graphics.
+                The game boasts a roster of beloved characters from the Dragon Ball universe, each with unique moves and abilities. It offers various gameplay modes, including a story mode that features an original narrative, an arcade mode, and robust online multiplayer options for competitive play. The combat system is accessible to newcomers but has enough depth to satisfy veteran fighting game players, incorporating mechanics like super moves, combos, and counters.
+                Dragon Ball FighterZ stands out for its faithful representation of the Dragon Ball series, with highly detailed character models and animations that capture the look and feel of the anime. The game's fast-paced action and strategic depth have made it a favorite among both Dragon Ball fans and the fighting game community.</p>
+            <a href="#">Read More</a>
+        </div>
+        <div class="card">
+            <div class="image">
+                <img src="../images/party.jpg" alt="party">
+            </div>
+            <h2>Party Animal</h2>
+            <p>Release date: sep 20, 2023</p>
+            <p>By: Recreate Games</p>
+            <p>Party Animals is a multiplayer party game developed by Recreate Games. It features adorable, customizable animals engaged in chaotic and hilarious battles across various whimsical environments. Players can compete against each other in a variety of game modes, including melee combat, team-based challenges, and minigames that test skills like racing and platforming.
+                The game emphasizes physics-based gameplay, allowing players to interact with the environment and each other in unpredictable ways. Each animal character has its own unique abilities and characteristics, adding to the fun and unpredictability of matches. Party Animals supports both local and online multiplayer, enabling players to enjoy the game with friends and other players worldwide.
+                With its colorful visuals, lighthearted gameplay, and engaging multiplayer features, Party Animals aims to create memorable and enjoyable experiences for players of all ages.</p>
+            <a href="#">Read More</a>
+        </div>
+        <div class="card">
+            <div class="image">
+                <img src="../images/brawhalla.jpg" alt="">
+            </div>
+            <h2>Brawlhalla</h2>
+            <p>Release date: okt 17, 2017</p>
+            <p>By: Blue Mammoth Games</p>
+            <p>Brawlhalla is a free-to-play platform fighting game developed by Blue Mammoth Games and published by Ubisoft. It features a diverse roster of characters, each with their own unique abilities and playstyles, inspired by various mythologies and cultures. Players engage in fast-paced battles on dynamic stages, utilizing weapons and items scattered throughout the arena to gain advantage over their opponents.
+                The game supports both local and online multiplayer modes, allowing players to compete in 1v1, 2v2, or free-for-all matches. Brawlhalla includes multiple game modes, including ranked matches for competitive play, casual modes for relaxed gameplay, and custom games where players can set their own rules and parameters.
+                Brawlhalla is known for its accessible gameplay mechanics, making it easy for new players to pick up and play, while offering depth and complexity for those seeking competitive challenges. With regular updates introducing new characters, stages, and features, Brawlhalla continues to grow its community and maintain its popularity in the platform fighting genre.</p>
+            <a href="#">Read More</a>
+        </div>
+        <div class="card">
+            <div class="image">
+                <img src="../images/multi.jpg" alt="">
+            </div>
+            <h2>MultiVersus</h2>
+            <p>Release date: jul 19, 2022</p>
+            <p>By: Player First Games</p>
+            <p>MultiVersus is an upcoming crossover fighting game developed by Warner Bros. Games and Ludosity. Set to be released in 2023, it brings together characters from various Warner Bros. franchises and other popular media into one chaotic and competitive fighting experience.
+                The game features a diverse roster of characters from beloved franchises such as Batman, Superman, Bugs Bunny, Tom and Jerry, and more. Each character brings their unique abilities, movesets, and personality to the battlefield. Players can engage in fast-paced, 2D arena-style battles across dynamic stages, utilizing special attacks and combos to outmaneuver and defeat their opponents.
+                MultiVersus is designed with accessibility in mind, making it easy for players of all skill levels to jump in and enjoy. It offers both online and local multiplayer modes, allowing for competitive matches and cooperative gameplay. With its colorful visuals, engaging gameplay mechanics, and iconic characters, MultiVersus aims to appeal to fans of Warner Bros. properties and fighting game enthusiasts alike.</p>
+            <a href="#">Read More</a>
+        </div>
+        <div class="card">
+            <div class="image">
+                <img src="../images/dragonball.jpg" alt="">
+            </div>
+            <h2>Dragon Ball Z kakarot</h2>
+            <p>Release date: jul 19, 2022</p>
+            <p>By:Cyber Connect2</p>
+            <p>Dragon Ball Z: Kakarot is an action RPG developed by CyberConnect2 and published by Bandai Namco Entertainment. Released in 2020, the game offers an expansive retelling of the Dragon Ball Z saga, focusing on the iconic story arcs and battles from the anime and manga series.
+                Players take on the role of Goku and other Z Fighters, experiencing key moments from the series through exploration, combat, and storytelling. The game features open-world environments where players can freely fly, explore, and interact with various characters and locations from the Dragon Ball universe. 
+                Combat in Dragon Ball Z: Kakarot is dynamic and fast-paced, incorporating signature moves and transformations from the series. Players can engage in epic battles against powerful foes, utilizing a combination of melee attacks, energy blasts, and special abilities. The game also includes RPG elements such as character progression, skill upgrades, and side quests that expand on the main story.
+                With its faithful adaptation of the Dragon Ball Z storyline, vibrant visuals, and engaging gameplay mechanics, Dragon Ball Z: Kakarot aims to provide fans with an immersive and nostalgic experience in the world of Dragon Ball Z.</p>
+                <a href="#">Read More</a>
+            </div>
+    </div>
 </body>
-
 </html>

@@ -75,7 +75,7 @@
                 Players can explore this richly detailed environment in a wide array of customizable vehicles, participating in a variety of events including races, stunts, and challenges. The game features a robust multiplayer component, allowing players to team up with friends or compete against others in a shared world.
 
                 Forza Horizon 5 is celebrated for its breathtaking graphics, realistic driving physics, and an extensive car roster. The game also introduces new features such as dynamic weather systems and seasonal changes, which affect driving conditions and open up new gameplay opportunities. With its blend of high-speed action, exploration, and social interaction, Forza Horizon 5 delivers a thrilling and immersive racing experience for both casual players and hardcore racing enthusiasts.</p>
-            <a href="#">Learn More</a>
+                <a href="#">Read More</a>
         </div>
         <div class="card">
             <div class="image">
@@ -90,7 +90,7 @@
                 The graphics are highly detailed, and the physics engine ensures an authentic riding experience, capturing the nuances of motorcycle handling. Additionally, Ride 5 offers extensive customization options for both bikes and riders, allowing players to personalize their racing experience.
 
                 Multiplayer modes enable players to compete against friends and other racers globally, ensuring endless replayability. Whether you are a seasoned rider or new to motorcycle racing games, Ride 5 delivers an immersive and adrenaline-pumping experience that captures the essence of two-wheel racing.</p>
-            <a href="#">Learn More</a>
+                <a href="#">Read More</a>
         </div>
         <div class="card">
             <div class="image">
@@ -107,66 +107,55 @@
                 Multiplayer modes enable players to race against friends and other competitors from around the world, providing endless opportunities for competitive and cooperative gameplay. Whether you're a veteran of the series or a newcomer, Need for Speed: Unbound offers an adrenaline-fueled adventure that captures the essence of street racing.
 
                 </p>
+                <a href="#">Read More</a>
         </div>
         <div class="card">
             <div class="image">
-                <img src="../images/doome.jpg" alt="Doom Eternal">
+                <img src="../images/motogp.jpg" alt="Moto GP">
             </div>
-            <h2>Doom Eternal</h2>
-            <p>By: id Software</p>
-            <p>Raze Hell with the Rip and Tear Pack and get in-game cosmetic items and additional single player content. This pack contains
-
-                DOOT Revenant Skin, a premium player demon skin for use in BATTLEMODE
-
-                Cultist Base Master Level, a remixed version of the campaign level with new challenges, combat encounters, and surprises
-
-                Throwback Shotgun Weapon Skin, bring DOOM's classic shotgun to bear on DOOM Eternal's demon hordes</p>
+            <h2>Moto GP 24</h2>
+            <p>By: Milestone S.r.l</p>
+            <p>MotoGP 24 is a motorcycle racing video game developed by Milestone S.r.l. and released in 2024. The game features various MotoGP classes, including Moto2, Moto3, and MotoE, offering a realistic racing experience with updated graphics and accurate physics. Players can choose from a range of official MotoGP riders and teams, compete on famous circuits around the world, and enjoy an in-depth career mode where they can develop their racing skills and strategies. Additionally, MotoGP 24 includes an online multiplayer feature that allows players to compete against others globally.</p>
             <a href="#">Read More</a>
         </div>
         <div class="card">
             <div class="image">
-                <img src="../images/cs2.jpg" alt="Counter-Strike 2">
+                <img src="../images/Asseto.jpg" alt="Asseto">
             </div>
-            <h2>Counter-Strike 2</h2>
-            <p>By: Valve</p>
-            <p>Counter-Strike 2 is the latest installment in the legendary Counter-Strike series, bringing a new level of intensity and realism to the iconic tactical first-person shooter. Players are divided into two teams, Terrorists and Counter-Terrorists, each with their unique objectives such as planting or defusing bombs, rescuing hostages, and securing strategic locations.
-
-                With upgraded graphics, realistic physics, and enhanced sound design, Counter-Strike 2 provides an immersive and competitive gaming experience. The game introduces new maps, weapons, and gameplay mechanics, while retaining the core elements that made the original a classic. Whether you're a veteran player or new to the series, Counter-Strike 2 offers thrilling multiplayer action that demands strategy, teamwork, and precision.</p>
+            <h2>Asseto Corsa</h2>
+            <p>By: Kunos Simulazioni</p>
+            <p>Assetto Corsa is a racing simulation video game developed by Kunos Simulazioni. Known for its realistic driving physics, it offers an authentic racing experience with meticulously detailed car models and tracks. The game features a variety of cars, from everyday vehicles to high-performance race cars, and includes several real-world racing circuits. Assetto Corsa supports both single-player and multiplayer modes, allowing players to compete against AI or other players online. Its modding community is also robust, providing a wide range of custom content such as new cars, tracks, and gameplay enhancements.</p>
+            <a href="#">Read More</a>
         </div>
         <div class="card">
             <div class="image">
-                <img src="../images/hitman.png" alt="Hitman Sniper">
+                <img src="../images/F1.jpg" alt="F1">
             </div>
-            <h2>Hitman Sniper</h2>
-            <p>By: Square Enix Montreal</p>
-            <p>Hitman Sniper is a thrilling mobile shooting game that places you in the shoes of Agent 47, the world's deadliest assassin. Set in stunning Montenegro, you are tasked with completing high-stakes contracts from your sniper perch. The game focuses on precision, strategy, and timing, as you eliminate targets and complete objectives in a variety of challenging scenarios.
-
-                With over 150 missions and 10 different contracts, Hitman Sniper offers extensive replayability. Customize your weapons, upgrade your skills, and discover unique ways to complete each mission. The game’s detailed environments, realistic weapon mechanics, and engaging gameplay make every shot count. Whether you prefer stealthy eliminations or high-action sequences, Hitman Sniper delivers an immersive sniper experience like no other.</p>
+            <h2>F1 24</h2>
+            <p>By: EA Sport</p>
+            <p>F1 24 is a Formula 1 racing video game developed by Codemasters. It offers an immersive experience of the official F1 World Championship, featuring all the teams, drivers, and circuits from the 2024 season. The game boasts highly detailed graphics, realistic car physics, and dynamic weather conditions. Players can engage in various game modes, including a comprehensive career mode, time trials, and multiplayer racing. F1 24 also introduces updated features like improved AI, enhanced vehicle customization, and a deeper management system, allowing players to strategize and refine their racing techniques.</p>
+            <a href="#">Read More</a>
         </div>
         <div class="card">
             <div class="image">
-                <img src="../images/mc5.jpg" alt="Modern Combat 5: Blackout">
+                <img src="../images/Asphalt9.jpg" alt="Asphalt">
             </div>
-            <h2>Modern Combat 5: Blackout</h2>
+            <h2>Asphalt 9 Legends</h2>
             <p>By: Gameloft</p>
-            <p>Modern Combat 5 is a high-octane first-person shooter that offers an intense and immersive military combat experience. In this installment of the popular Modern Combat series, players are thrust into a world of global warfare, with both single-player and multiplayer modes that deliver action-packed gameplay.
-
-                The game features a gripping campaign mode where you lead an elite squad through a series of dangerous missions to prevent global chaos. Each mission is set in diverse locations, ranging from urban settings to exotic landscapes. The multiplayer mode offers a variety of game types, including team battles and solo challenges, allowing players to test their skills against others worldwide.
-
-                With stunning graphics, customizable weapons, and fluid controls, Modern Combat 5 provides an unparalleled mobile gaming experience. The game also includes a class system, allowing players to choose from different playstyles such as Assault, Heavy, Recon, Sniper, Support, and Bounty Hunter, each with unique skills and abilities. Modern Combat 5 is a must-play for fans of the FPS genre, delivering non-stop action and strategic gameplay.</p>
+            <p>Asphalt 9: Legends is a popular arcade racing game developed by Gameloft. Released in 2018, the game features high-speed racing action with stunning graphics and a wide selection of hypercars from renowned manufacturers like Ferrari, Porsche, and Lamborghini. Players can race through various exotic locations, performing stunts and drifts while competing in single-player career mode or multiplayer races. Asphalt 9: Legends also offers a unique TouchDrive control system for intuitive handling, as well as extensive car customization options and regular in-game events and challenges.</p>
+            <a href="#">Read More</a>
         </div>
         <div class="card">
             <div class="image">
-                <img src="../images/valo.jpg" alt="Valorant">
+                <img src="../images/iracing.jpg" alt="iracing">
             </div>
-            <h2>Valorant</h2>
-            <p>By: Riot Games</p>
-            <p>Valorant is a tactical first-person shooter that combines precise gunplay with unique character abilities. Set in a near-future world, players assume the roles of various agents, each with their own special skills that can turn the tide of battle. The game emphasizes strategic team play, with two teams of five competing in various objective-based game modes.
+            <h2>I Racing</h2>
+            <p>By: I racing Motorsport Simulation</p>
+            <p>iRacing is a highly acclaimed online racing simulation game developed by iRacing.com Motorsport Simulations. Known for its realistic driving physics and meticulously detailed car and track models, iRacing offers an immersive racing experience. The game features a subscription-based model, providing access to a wide range of officially licensed cars and tracks from various motorsport disciplines, including NASCAR, Formula 1, and sports car racing.
 
-                Each match consists of multiple rounds, with teams alternating between attacking and defending. The attackers aim to plant and detonate a spike, while the defenders strive to prevent it. Success requires a blend of sharpshooting, tactical planning, and effective use of each agent's abilities. Valorant's diverse cast of agents allows players to choose a character that fits their preferred playstyle, whether it's stealth, support, or direct combat.
-
-                Valorant is renowned for its highly competitive nature, featuring a ranked mode that lets players climb the ladder based on their performance. With its blend of precise shooting mechanics, tactical gameplay, and strategic use of abilities, Valorant offers a unique and engaging experience for both casual players and esports enthusiasts alike.</p>
-        </div>
+                iRacing emphasizes competitive online play, with a robust system for organized races, leagues, and special events. The game also includes a comprehensive driver ranking system and detailed telemetry for analyzing performance. With a strong focus on realism and community, iRacing is popular among both amateur and professional racers.</p>
+                <a href="#">Read More</a>
+            </div>
     </div>
 </body>
 </html>
