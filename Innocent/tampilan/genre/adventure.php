@@ -66,42 +66,44 @@
     <div class="container">
         <div class="card">
             <div class="image">
-                <img src="../images/fc24.jpg" alt="">
+                <img src="../images/lim.jpg" alt="">
             </div>
-            <h2>Fc 24</h2>
-            <p>Release date: sep 28, 2023</p>
-            <p>By: EA Sport</p>
-            <p>FC 24 is a football simulation video game developed by EA Sports, part of the renowned FIFA series. It offers realistic gameplay, enhanced graphics, and a wide range of teams and players from global leagues. </p>
+            <h2>Limbo</h2>
+            <p>Release date: sep 28, 2018</p>
+            <p>By: muhaimin</p>
+            <p>Limbo adalah game petualangan android terbaik yang bisa dicoba karena keseruannya menyelesaikan misi permainan dengan nuansa mistis yang menegangkan. Grameds akan berpetualangan di dunia yang penuh misteri untuk mengunggkap jalannya game tersebut. Cara bermain dalam aplikasi game Limbo ini Grameds harus memecahkan setiap petunjuk yang temukan, menusuri suatu wilayah yang horor, dan melawan musuh.</p>
                 <a href="#">Read More</a>
         </div>
         <div class="card">
             <div class="image">
-                <img src="../images/NBA-2K24.webp" alt="">
+                <img src="../images/mcpe.jpg" alt="">
             </div>
-            <h2>NBA 2k24</h2>
-            <p>Release date: 7 sep 2023</p>
-            <p>By: Visual Concepts </p>
-            <p> NBA 2K24 is a basketball simulation video game developed by Visual Concepts and published by 2K Sports. It is the latest installment in the NBA 2K series, known for its realistic gameplay, detailed graphics, and comprehensive basketball experience.</p>
+            <h2>Minecraft PE</h2>
+            <p>Release date: 7 sep 2010</p>
+            <p>By: Mojang</p>
+            <p>Minicarft Pocket Edition adalah salah satu game petualangan yang sangat menguras kuota internet dan ruang penyimpanan di smartphone android. Tapi tidak perlu khawatir karena hal tersebut terbayar dengan keseruan petualangan di aplikasi ini dengan menjelajahi dunia, membunuh zombie, membuat rumah, barang, dan sebagainya.
+
+Cara bermain di aplikasi game Minicarft Pocket Edition adalah bertahan hidup dalam permainan dari serangan zombie. Temukan berbagai stiker petualangan khusus untuk kamu pada buku Minecraft: Official Survival Sticker Book dibawah ini</p>
             <a href="#">Read More</a>
         </div>
         <div class="card">
             <div class="image">
-                <img src="../images/wwe.jpg" alt="">
+                <img src="../images/wk.jpg" alt="">
             </div>
-            <h2>WWE 2k24</h2>
-            <p>Release date: Mar 8, 2024</p>
+            <h2>The Walking Dead</h2>
+            <p>Release date: Mar 8, 2012</p>
             <p>By: Visual Concepts</p>
-            <p>WWE 2K24 is a professional wrestling video game developed by Visual Concepts and published by 2K Sports. As the latest installment in the WWE 2K series, it offers an immersive and realistic wrestling experience with updated rosters, improved graphics, and enhanced gameplay mechanics.</p>
+            <p>The Walking Dead adalah salah satu game petualangan android terbaik yang sangat menyenangkan, baik versi season one atau season two-nya. Aplikasi game petualangan ini memiliki kualitas grafis yang baik di kelasnya dengan berbagai fitur dalam game yang sangat seru. Cara bermain game ini salah satunya Grameds harus melawan zombie untuk menyelesaikan misi dna bertahan hidup.</p>
                 <a href="#">Read More</a>
         </div>
         <div class="card">
             <div class="image">
-                <img src="../images/pga.webp" alt="">
+                <img src="../images/ac.jpg" alt="">
             </div>
-            <h2>Pga tour 2k23</h2>
-            <p>Release date: oct 14, 2022</p>
-            <p>By: HB Studios</p>
-            <p>PGA Tour 2K24 is a golf simulation video game developed by HB Studios and published by 2K Sports. Known for its realistic gameplay and stunning graphics, it offers an immersive golfing experience that appeals to both casual players and serious golf enthusiasts.</p>
+            <h2>Assasin’s Creed Pirates</h2>
+            <p>Release date: oct 14, 2014</p>
+            <p>By: Ubisoft</p>
+            <p>PRekomendasi game petualangan android terbaik selanjutnya adalah Assasins Cread Pirates yang mengusung konsep petualangan seorang bajak laut. Cara bermain di game ini Grameds akan melawan musuh yang sangat tangguh dan harus berstrategi untuk mendapat harta karun dari kapal-kapal lain. Assains Cread Pirates memiliki tampilan grafis yang berkualitas yang bisa Grameds coba.</p>
             <a href="#">Read More</a>
         </div>
         <div class="card">

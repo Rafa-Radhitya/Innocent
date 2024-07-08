@@ -15,18 +15,7 @@
 
         <ul class="s-header__nav">
             <li class="current"><a href="/Innocent/Innocent/tampilan/index.php" title="">Home</a></li>
-            <li class="has-children">
-                <a href="#0" title="">Toko</a>
-                <ul class="sub-menu">
-                    <li><a href="category.php">Design</a></li>
-                    <li><a href="category.php">Lifestyle</a></li>
-                    <li><a href="category.php">Photography</a></li>
-                    <li><a href="category.php">Vacation</a></li>
-                    <li><a href="category.php">Work</a></li>
-                    <li><a href="category.php">Health</a></li>
-                    <li><a href="category.php">Family</a></li>
-                    <li><a href="category.php">Relationship</a></li>
-                </ul>
+            <li><a href="/Innocent/Innocent/tampilan/LLM/chat.php" title="">Service</a>
             </li>
             <li class="has-children">
                 <a href="#0" title="">Genre</a>
@@ -42,9 +31,7 @@
                     <li><a href="/Innocent/Innocent/tampilan/genre/casual.php">Casual</a></li>
                 </ul>
             </li>
-            <li><a href="/Innocent/Innocent/tampilan/Statistik/Statistik.php" title="">Data</a></li>
-            <li><a href="about.html" title="">Akun</a></li>
-
+            <li><a href="/Innocent/Innocent/tampilan/LLM/chart2.php" title="">Data</a></li>
         </ul> <!-- end s-header__nav -->
 
         <a href="#0" title="Close Menu" class="s-header__overlay-close close-mobile-menu">Close</a>

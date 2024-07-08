@@ -66,42 +66,60 @@
     <div class="container">
         <div class="card">
             <div class="image">
-                <img src="../images/fc24.jpg" alt="">
+                <img src="../images/RS.webp" alt="">
             </div>
-            <h2>Fc 24</h2>
-            <p>Release date: sep 28, 2023</p>
-            <p>By: EA Sport</p>
-            <p>FC 24 is a football simulation video game developed by EA Sports, part of the renowned FIFA series. It offers realistic gameplay, enhanced graphics, and a wide range of teams and players from global leagues. </p>
+            <h2>Rise of Kingdoms: Lost Crusade</h2>
+            <p>Release date: sep 28, 2022</p>
+            <p>By: innocent</p>
+            <p>Rise of Kingdoms: Lost Crusade adalah game strategi yang terbilang populer. Terbukti dengan jumlah unduhan yang sangat banyak, yakni mencapai lebih dari 50 juta unduhan di Android saja. Dalam game, Anda akan ditugaskan sebagai gubernur.
+
+Anda harus aktif untuk terus membangun peradaban, sampai kerajaannya jadi sukses, makmur dan tentunya kuat.
+
+Dari dua belas peradaban yang ada, kami mencoba untuk memilih Britania (Britain) dengan komandannya yang bernama Boudica.
+
+Di awal permainan, akan ada tutorial yang dapat diikuti. Dari sini, kami diminta untuk membangun sebuah farm, merekrut pasukan militer, pemanah, bahkan pengembara yang akan scouting (menjelajah di sekitar kota).  </p>
                 <a href="#">Read More</a>
         </div>
         <div class="card">
             <div class="image">
-                <img src="../images/NBA-2K24.webp" alt="">
+                <img src="../images/plague.jpg" alt="">
             </div>
-            <h2>NBA 2k24</h2>
-            <p>Release date: 7 sep 2023</p>
+            <h2>Plague</h2>
+            <p>Release date: 7 sep 2010</p>
             <p>By: Visual Concepts </p>
-            <p> NBA 2K24 is a basketball simulation video game developed by Visual Concepts and published by 2K Sports. It is the latest installment in the NBA 2K series, known for its realistic gameplay, detailed graphics, and comprehensive basketball experience.</p>
+            <p>Menyebarkan virus yang menyebabkan penyakit, itulah konsep dari game strategi satu ini. Plague menyodorkan game yang tergolong kompleks dan rumit, tapi juga menantang.
+
+Walau begitu, Plague tetap mampu mencuri hati penggemar. Apalagi, game yang membawa virus atau wabah sebagai tema utamanya memang menarik untuk dicoba.
+
+Di dalam game-nya, terdapat 12 tipe plague atau penyakit. Tugas para pemain Plague diharuskan untuk mengembangkan dan melakukan penelitian lebih dalam lagi mengenai Plague ini agar penyakit tidak semakin menyebar.</p>
             <a href="#">Read More</a>
         </div>
         <div class="card">
             <div class="image">
-                <img src="../images/wwe.jpg" alt="">
+                <img src="../images/ds.jpg" alt="">
             </div>
-            <h2>WWE 2k24</h2>
-            <p>Release date: Mar 8, 2024</p>
-            <p>By: Visual Concepts</p>
-            <p>WWE 2K24 is a professional wrestling video game developed by Visual Concepts and published by 2K Sports. As the latest installment in the WWE 2K series, it offers an immersive and realistic wrestling experience with updated rosters, improved graphics, and enhanced gameplay mechanics.</p>
+            <h2>Don't Starve</h2>
+            <p>Release date: Mar 8, 2022</p>
+            <p>By: Klei Entertainment</p>
+            <p>Don't Starve sebuah game hasil produksi developer Klei Entertainment. Sang developer membuat sebuah game strategi dimana Anda harus mampu bertahan hidup dalam kondisi apa pun dan dimana pun Anda berada. Pemain akan dilempar ke planet asing dan tugas Anda hanya satu, yakni bertahan hidup.
+
+Tentu banyak hal yang harus dilakukan ketika Anda berusaha bertahan hidup, apalagi berada di planet yang tidak tahu di mana.
+
+Anda dapat membuat tempat tinggal, membuat peralatan, bertarung dengan makhluk-makhluk planet lain dan tentunya mencari makanan.</p>
                 <a href="#">Read More</a>
         </div>
         <div class="card">
             <div class="image">
-                <img src="../images/pga.webp" alt="">
+                <img src="../images/bed-wars-.webp" alt="">
             </div>
-            <h2>Pga tour 2k23</h2>
-            <p>Release date: oct 14, 2022</p>
-            <p>By: HB Studios</p>
-            <p>PGA Tour 2K24 is a golf simulation video game developed by HB Studios and published by 2K Sports. Known for its realistic gameplay and stunning graphics, it offers an immersive golfing experience that appeals to both casual players and serious golf enthusiasts.</p>
+            <h2>Bed Wars</h2>
+            <p>Release date: oct 14, 2018</p>
+            <p>By: HB innocent</p>
+            <p>agi mencari game strategi dengan konsep menarik ala Minecraft? Coba main Bed Wars. Dalam permainan PvP ini, Anda akan behadapan dengan 3 kelompok musuh, tentunya bersama teman-teman satu tim Anda.
+
+Tugas Anda dan tim adalah menjaga agar tempat tidur di pulau milik Anda tak dihancurkan lawan. Nah, sementara Anda dan rekan-rekan satu tim harus memikirkan strategi untuk menghancurkan tempat tidur dan pulau musuh.agi mencari game strategi dengan konsep menarik ala Minecraft? Coba main Bed Wars. Dalam permainan PvP ini, Anda akan behadapan dengan 3 kelompok musuh, tentunya bersama teman-teman satu tim Anda.
+
+Tugas Anda dan tim adalah menjaga agar tempat tidur di pulau milik Anda tak dihancurkan lawan. Nah, sementara Anda dan rekan-rekan satu tim harus memikirkan strategi untuk menghancurkan tempat tidur dan pulau musuh.</p>
             <a href="#">Read More</a>
         </div>
         <div class="card">

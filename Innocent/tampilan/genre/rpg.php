@@ -66,42 +66,47 @@
     <div class="container">
         <div class="card">
             <div class="image">
-                <img src="../images/fc24.jpg" alt="">
+                <img src="../images/Genshin.jpeg" alt="">
             </div>
-            <h2>Fc 24</h2>
+            <h2>Genshin Impact</h2>
             <p>Release date: sep 28, 2023</p>
-            <p>By: EA Sport</p>
-            <p>FC 24 is a football simulation video game developed by EA Sports, part of the renowned FIFA series. It offers realistic gameplay, enhanced graphics, and a wide range of teams and players from global leagues. </p>
+            <p>By: Hoyoverse</p>
+            <p>Genshin Impact adalah permainan yang bergenre dunia terbuka (open world) sekaligus bermain peran aksi. Pada permainan ini, pemain memungkinkan untuk mengendalikan salah satu karakter yang dapat digantikan di dalam sebuah party (kelompok).[3] Karakter-karakter yang ditukarkan dapat dilakukan dengan cepat selama melakukan kombat sehingga memungkinkan pemain 
+                untuk menggunakan kombinasi kemampuan dan serangan yang berbeda.[4] Karakter yang dapat memiliki kemampuan diperkuat dengan berbagai cara, seperti menaikkan level-nya secara langsung dan memperkuat artefak beserta senjata yang dapat digunakan oleh seorang karakter.[5] Selain berpetualang, pemain dapat mencoba berbagai tantangan untuk mendapatkan hadiah. Pemain dapat melawan raja dan tantangan berhadiah di seluruh Pulau Teyvat, tetapi hadiah tersebut didapatkan dengan menggunakan mata uang yang disebut Original Resin.[6] Menyelesaikan tantangan-tantangan tersebut dapat menambah kenaikan pemain dengan cara meningkatkan Adventure Rank, yang dapat membuka misi baru, tantangan, dan menaikkan World Level.[7] World Level adalah ukuran mengenai seberapa kuat musuh-musuh di dunia dan seberapa besar hadiah yang jarang didapatkan setelah mengalahkannya.[8] </p>
                 <a href="#">Read More</a>
         </div>
         <div class="card">
             <div class="image">
-                <img src="../images/NBA-2K24.webp" alt="">
+                <img src="../images/FF.jpg" alt="">
             </div>
-            <h2>NBA 2k24</h2>
-            <p>Release date: 7 sep 2023</p>
-            <p>By: Visual Concepts </p>
-            <p> NBA 2K24 is a basketball simulation video game developed by Visual Concepts and published by 2K Sports. It is the latest installment in the NBA 2K series, known for its realistic gameplay, detailed graphics, and comprehensive basketball experience.</p>
+            <h2>Final Fantasy</h2>
+            <p>Release date: 8 Desember 1987</p>
+            <p>By: Square Enix</p>
+            <p> Final Fantasy (Bahasa Jepang: ファイナルファンタジー Fainaru Fantajii) adalah seri permainan RPG konsol dan komputer yang diciptakan oleh Hironobu Sakaguchi dan diproduksi oleh Square Enix (sebelumnya bernama Square Co., Ltd.). Final Fantasy merupakan seri permainan yang paling banyak didistribusikan sepanjang masa, termasuk di antaranya permainan-permainan RPG standar untuk konsol, permainan portabel, MMORPG, permainan untuk telepon seluler, tiga film produksi animasi dan dua film CGI berdurasi panjang.</p>
             <a href="#">Read More</a>
         </div>
         <div class="card">
             <div class="image">
-                <img src="../images/wwe.jpg" alt="">
+                <img src="../images/Ragnarok x.webp" alt="">
             </div>
-            <h2>WWE 2k24</h2>
-            <p>Release date: Mar 8, 2024</p>
-            <p>By: Visual Concepts</p>
-            <p>WWE 2K24 is a professional wrestling video game developed by Visual Concepts and published by 2K Sports. As the latest installment in the WWE 2K series, it offers an immersive and realistic wrestling experience with updated rosters, improved graphics, and enhanced gameplay mechanics.</p>
+            <h2>Ragnarok X</h2>
+            <p>Release date: 31 Agustus 2002</p>
+            <p>By: Gravity</p>
+            <p>Sebelum masuk ke pembahasan apa itu Ragnarok X: Next Generation (ROX), ada baiknya kita membahas fakta-fakta Ragnarok Online. Game ini dengan ROX punya banyak kesamaan, tentunya karena ROX merupakan game adaptasinya.
+
+Ragnarok Online (RO) merupakan game MMORPG (massively multiplayer online role playing game) yang dirilis pada 31 Agustus 2002. Game asal Korea Selatan ini dirancang oleh Gravity Corp. Cerita dan latar belakang yang sama dengan komik Korea terkenal berjudul Ragnarok yang ditulis oleh Lee Myoung-Jin.
+
+Di masa keemasan warung internet (warnet), Ragnarok Online menjadi salah satu penyumbang keuntungan bagi para pengusaha warnet saat itu. Hampir semua gamer yang main warnet pasti memainkan RO.x</p>
                 <a href="#">Read More</a>
         </div>
         <div class="card">
             <div class="image">
-                <img src="../images/pga.webp" alt="">
+                <img src="../images/cp.jpg" alt="">
             </div>
-            <h2>Pga tour 2k23</h2>
-            <p>Release date: oct 14, 2022</p>
-            <p>By: HB Studios</p>
-            <p>PGA Tour 2K24 is a golf simulation video game developed by HB Studios and published by 2K Sports. Known for its realistic gameplay and stunning graphics, it offers an immersive golfing experience that appeals to both casual players and serious golf enthusiasts.</p>
+            <h2>Cyberpunk 77</h2>
+            <p>Release date: 5 Desember 2023</p>
+            <p>By: CD Project Red</p>
+            <p>PGA Tour 2K24 is a golf simulation video game developed by HB Studios and published by 2K Sports. Known for its realistic gameplay and stunning graphics, it offers an immersive golfing experience that appeals to both casual players and serious golf enthusiasts.ight City adalah megacity Amerika di Negara Bagian Bebas California Utara, dikendalikan oleh perusahaan dan tidak diserang oleh hukum negara dan negara bagian. Ia melihat konflik dari perang geng yang merajalela dan entitas yang berkuasa bersaing untuk mendominasi. Kota ini bergantung pada robotika untuk aspek sehari-hari seperti pengumpulan sampah, pemeliharaan, dan transportasi umum.[14][15] Identitas visualnya berasal dari empat era yang dilaluinya—Entropisme yang keras, Kitsch yang penuh warna, Neo-Militerisme yang mengesankan, dan Neo-Kitsch yang mewah.</p>
             <a href="#">Read More</a>
         </div>
         <div class="card">
